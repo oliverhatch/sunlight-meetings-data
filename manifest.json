@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated": "2026-07-13T11:44:50",
- "meetings": 78579,
+ "generated": "2026-07-13T12:40:11",
+ "meetings": 87689,
  "shards": [
   {
    "file": "ca-ab.json",
@@ -27,14 +27,15 @@
    "file": "ca-bc.json",
    "country": "CA",
    "state": "BC",
-   "meetings": 368,
-   "bytes": 172215,
-   "sha256": "5c01c4d33991ab6b7c5f444e7a033d602d2f7828dbd69d71bf14f1bf8ef23280",
-   "with_coords": 368,
+   "meetings": 945,
+   "bytes": 441105,
+   "sha256": "336f12fd9c47b0aa56f31191424b203c20acb95950a16f2332041fad8f397f90",
+   "with_coords": 945,
    "feeds": [
     "aavictoria.ca",
     "area78.org",
-    "nanaimoaa.org"
+    "nanaimoaa.org",
+    "vancouveraa.ca"
    ],
    "bbox": [
     48.3702,
@@ -119,12 +120,13 @@
    "file": "ca-on.json",
    "country": "CA",
    "state": "ON",
-   "meetings": 1235,
-   "bytes": 682185,
-   "sha256": "72e2fab311534a92160aaa1b1c2e5696be426bc66aa0bc867f0b7ffe2e0e0bca",
-   "with_coords": 1138,
+   "meetings": 1323,
+   "bytes": 726094,
+   "sha256": "b4299c6ea4c41d43c5b76216b2880f4017ddc79ea95e39fb51c16807225d778b",
+   "with_coords": 1226,
    "feeds": [
     "aahalton.org",
+    "aahamilton.org",
     "aatoronto.org",
     "barrieaa.com",
     "centralwest2district3aa.org",
@@ -137,7 +139,7 @@
     "quintewestaa.org"
    ],
    "bbox": [
-    43.3034,
+    43.0701,
     -81.7365,
     46.0921,
     -74.4594
@@ -179,6 +181,24 @@
     -110.0038,
     53.2814,
     -103.2731
+   ]
+  },
+  {
+   "file": "ca-wa.json",
+   "country": "CA",
+   "state": "WA",
+   "meetings": 1,
+   "bytes": 531,
+   "sha256": "aa3519752bdfb2ef6bef155b878913e107cd3ff470b9db2553c1ebb9c03ec54e",
+   "with_coords": 1,
+   "feeds": [
+    "vancouveraa.ca"
+   ],
+   "bbox": [
+    48.9814,
+    -123.0526,
+    48.9814,
+    -123.0526
    ]
   },
   {
@@ -249,8 +269,8 @@
    "country": "US",
    "state": "AZ",
    "meetings": 1514,
-   "bytes": 693012,
-   "sha256": "e4b691bffbb29b075561378e4767e896b490e78b60b1f7929880a88644369ac0",
+   "bytes": 693021,
+   "sha256": "913810309876a55844951417e3ba582f1b19b3f3b11018b8e409abde2b498096",
    "with_coords": 1514,
    "feeds": [
     "aamesaaz.org",
@@ -270,10 +290,10 @@
    "file": "us-ca.json",
    "country": "US",
    "state": "CA",
-   "meetings": 15580,
-   "bytes": 7265541,
-   "sha256": "62bbf9ef65f19e07871bdcd9e87cdc91c09b8beb79f35e0b91520a247112120a",
-   "with_coords": 14018,
+   "meetings": 16672,
+   "bytes": 7799244,
+   "sha256": "fb6b90d4155dedd8bd403e645edff35ceda040bf6bcaa09abad1b10a5b601e8f",
+   "with_coords": 14769,
    "feeds": [
     "aa-tulareco.org",
     "aa52centraloffice.org",
@@ -287,6 +307,7 @@
     "aasanjose.org",
     "aasantacruz.org",
     "aascv.org",
+    "aasfmarin.org",
     "aasolanosouth.org",
     "aaukiah.org",
     "aaventuracounty.org",
@@ -294,6 +315,7 @@
     "eastbayaa.org",
     "fresnoaa.org",
     "hacoaa.org",
+    "kerncountyaa.com",
     "lacoaa",
     "mendocinocoastaa.com",
     "nosdco-aa.org",
@@ -334,18 +356,19 @@
    "file": "us-ct.json",
    "country": "US",
    "state": "CT",
-   "meetings": 13,
-   "bytes": 6002,
-   "sha256": "cb05e125cbe0be50b2844fd8ec9af5f74552e7bb8432eb38176aa03dd37e7ae6",
-   "with_coords": 13,
+   "meetings": 1894,
+   "bytes": 929409,
+   "sha256": "9d1f2526d0787df04f694027ee94f278b2767a28777f8bcc87ccdb3cefb5eb95",
+   "with_coords": 1894,
    "feeds": [
+    "ct-aa.org",
     "nyintergroup.org",
     "rhodeisland-aa.org"
    ],
    "bbox": [
-    41.0361,
-    -73.6186,
-    41.9206,
+    38.7946,
+    -106.5348,
+    42.0277,
     -71.8343
    ]
   },
@@ -489,18 +512,20 @@
    "file": "us-id.json",
    "country": "US",
    "state": "ID",
-   "meetings": 11,
-   "bytes": 4839,
-   "sha256": "d170496282e1aca968818c6f3684bee862ef8e04994a24cd4e416b3849ea254c",
-   "with_coords": 11,
+   "meetings": 665,
+   "bytes": 300067,
+   "sha256": "aa4d749f3c18e34ef26addf2d535b214e59a28e074a4fd09d11f5f3a1e4f90c3",
+   "with_coords": 665,
    "feeds": [
-    "district22aa.org"
+    "district22aa.org",
+    "idahoarea18aa.org",
+    "wyomingaa.org"
    ],
    "bbox": [
-    46.7271,
-    -117.0079,
+    40.9728,
+    -117.7358,
     46.9227,
-    -116.8963
+    -111.1101
    ]
   },
   {
@@ -554,17 +579,18 @@
    "file": "us-ks.json",
    "country": "US",
    "state": "KS",
-   "meetings": 630,
-   "bytes": 295842,
-   "sha256": "7ad7242f1e147f799ab5a27744fee9639f3bcd91760952ed32f9915f8f32fe60",
-   "with_coords": 630,
+   "meetings": 2058,
+   "bytes": 952456,
+   "sha256": "5026891bd2d9943f68e2ad741851b1debc63fdb5c8672e7dcee40e32e3c74275",
+   "with_coords": 2058,
    "feeds": [
     "aatopeka.org",
-    "kc-aa.org"
+    "kc-aa.org",
+    "ks-aa.org"
    ],
    "bbox": [
-    37.0214,
-    -96.1691,
+    37.0174,
+    -101.7509,
     39.9625,
     -94.6074
    ]
@@ -717,10 +743,10 @@
    "file": "us-mo.json",
    "country": "US",
    "state": "MO",
-   "meetings": 2261,
-   "bytes": 1015030,
-   "sha256": "c67e2fc5eb7a5a125435617ab9dab8a23aa66c4997422c1a188f9f6cf7a9d5bf",
-   "with_coords": 2261,
+   "meetings": 2260,
+   "bytes": 1014564,
+   "sha256": "c8aa5c2f0a5fc4e834ef1f0e32466479c58476e6d817266344637cdc0e41a716",
+   "with_coords": 2260,
    "feeds": [
     "aacomm.org",
     "aalansingmi.org",
@@ -740,17 +766,18 @@
    "file": "us-ms.json",
    "country": "US",
    "state": "MS",
-   "meetings": 69,
-   "bytes": 30185,
-   "sha256": "f38cd83f56fc254656a7169aff549ca56f5ade79dad2d67140fd1186ce91225e",
-   "with_coords": 69,
+   "meetings": 880,
+   "bytes": 402657,
+   "sha256": "c295cf0f7e256a3b100d8640077aa6e6cecce7e29970720d480da00ab3534a35",
+   "with_coords": 880,
    "feeds": [
+    "aa-mississippi.org",
     "memphis-aa.org",
     "shoalsaa.org"
    ],
    "bbox": [
-    34.7003,
-    -90.1486,
+    30.3002,
+    -91.4041,
     34.9926,
     -88.1882
    ]
@@ -802,18 +829,21 @@
    "file": "us-ne.json",
    "country": "US",
    "state": "NE",
-   "meetings": 605,
-   "bytes": 257634,
-   "sha256": "b615dd468fbdca89f3de63a7a6eb3d27678c6263d63050a85691c5369d4f62fe",
-   "with_coords": 605,
+   "meetings": 1819,
+   "bytes": 810547,
+   "sha256": "371b5a6a2563c35200672ddd06d29b5c578e91b2156ed7c3533566f5560a0f65",
+   "with_coords": 1819,
    "feeds": [
-    "omahaaa.org"
+    "area41.org",
+    "lincaa.org",
+    "omahaaa.org",
+    "wyomingaa.org"
    ],
    "bbox": [
-    40.034,
-    -99.7425,
-    42.836,
-    -95.6018
+    40.0306,
+    -103.8083,
+    42.9374,
+    -95.6015
    ]
   },
   {
@@ -878,17 +908,18 @@
    "file": "us-nv.json",
    "country": "US",
    "state": "NV",
-   "meetings": 1185,
-   "bytes": 507818,
-   "sha256": "318d14613a7d2ada361fc8e98f54d2149fcb6df159551c7e92a2253b3525d6a7",
-   "with_coords": 1185,
+   "meetings": 1189,
+   "bytes": 509620,
+   "sha256": "2f4b9d9f8375478a799de4c3c6a608922c4c969eb48e7f3d7a274450f1ad9613",
+   "with_coords": 1189,
    "feeds": [
+    "idahoarea18aa.org",
     "lvcentraloffice.org"
    ],
    "bbox": [
     35.4717,
     -119.8143,
-    39.5299,
+    41.943,
     -114.0675
    ]
   },
@@ -896,16 +927,17 @@
    "file": "us-ny.json",
    "country": "US",
    "state": "NY",
-   "meetings": 7058,
-   "bytes": 3543116,
-   "sha256": "47a2d03b44b1d2b35677ce30f120ff595d166374485f32d77eba0985302a2e74",
-   "with_coords": 7058,
+   "meetings": 7060,
+   "bytes": 3544159,
+   "sha256": "feb3d7b4ee8c02c5935a291874ba407622f4bbac867c5e52efee5358872c0759",
+   "with_coords": 7060,
    "feeds": [
     "aaalbanyny.org",
     "aacincinnati.org",
     "aajci.org",
     "aasyracuse.org",
     "buffaloaany.org",
+    "ct-aa.org",
     "livingstonareaintergroup.org",
     "nassauny-aa.org",
     "nyintergroup.org",
@@ -973,14 +1005,15 @@
    "file": "us-or.json",
    "country": "US",
    "state": "OR",
-   "meetings": 1752,
-   "bytes": 848266,
-   "sha256": "3cb1551295a30d4551f5079df13b0760e5a30e8045974dec6d8fa2d8767e23ea",
-   "with_coords": 1752,
+   "meetings": 1768,
+   "bytes": 855709,
+   "sha256": "c50e63013c743131d5a524ea02a30ac04272bff4cf48f01b7358fd5dbf3c7389",
+   "with_coords": 1768,
    "feeds": [
     "aaalbanyny.org",
     "coigaa.org",
     "grantspassaa.com",
+    "idahoarea18aa.org",
     "jccoaa.org",
     "klciaa.org",
     "pdxaa.com",
@@ -1027,11 +1060,12 @@
    "file": "us-ri.json",
    "country": "US",
    "state": "RI",
-   "meetings": 542,
-   "bytes": 250143,
-   "sha256": "54c9dfd2c240dec8cc46ca2e2274e2aa0b2afe022031dd9ef379a377bc8a852d",
-   "with_coords": 542,
+   "meetings": 565,
+   "bytes": 260117,
+   "sha256": "451e7f2ed2a573fac2c20edd0a23245c4f443a1795c89f9c963c93f0cbc3b60f",
+   "with_coords": 565,
    "feeds": [
+    "ct-aa.org",
     "rhodeisland-aa.org"
    ],
    "bbox": [
@@ -1057,6 +1091,24 @@
     -80.4483,
     33.324,
     -79.4626
+   ]
+  },
+  {
+   "file": "us-sd.json",
+   "country": "US",
+   "state": "SD",
+   "meetings": 411,
+   "bytes": 190674,
+   "sha256": "ba0c6e984837300c8d1ecf3a76347b9b632371ed84af870e522228493daf31a7",
+   "with_coords": 411,
+   "feeds": [
+    "area63aa.org"
+   ],
+   "bbox": [
+    42.7828,
+    -103.8708,
+    45.8122,
+    -96.5043
    ]
   },
   {
@@ -1086,8 +1138,8 @@
    "country": "US",
    "state": "TX",
    "meetings": 4877,
-   "bytes": 2354965,
-   "sha256": "f030257931466546596a6a8df0b373bca33c82b8ac1f3cb8f746813f3d02bed9",
+   "bytes": 2355065,
+   "sha256": "785945194f10b4a788a04405542926b8b75fe80c820a41d8d3df9f64cc628988",
    "with_coords": 4877,
    "feeds": [
     "aahouston.org",
@@ -1095,6 +1147,7 @@
     "aasanantonio.org",
     "arkansascentraloffice.org",
     "cbiaa.org",
+    "ct-aa.org",
     "fortworthaa.org",
     "tyler-aa.org"
    ],
@@ -1129,6 +1182,24 @@
    ]
   },
   {
+   "file": "us-vt.json",
+   "country": "US",
+   "state": "VT",
+   "meetings": 526,
+   "bytes": 256748,
+   "sha256": "892ab7b495fd9fed47914294f11b62cbde778b2fad13b8afcbfec222c58e05c2",
+   "with_coords": 526,
+   "feeds": [
+    "aavt.org"
+   ],
+   "bbox": [
+    42.7957,
+    -73.322,
+    44.995,
+    -71.562
+   ]
+  },
+  {
    "file": "us-wa.json",
    "country": "US",
    "state": "WA",
@@ -1153,12 +1224,13 @@
    "file": "us-wi.json",
    "country": "US",
    "state": "WI",
-   "meetings": 610,
-   "bytes": 305538,
-   "sha256": "21898adccc4bb48c5d36f56835f22589906f33038ec05baa8235acf43936f2cd",
-   "with_coords": 610,
+   "meetings": 611,
+   "bytes": 305981,
+   "sha256": "5f5e1adcb25a41256a6bebb286b563bc19b171880fc1f376c863c1c995d2b364",
+   "with_coords": 611,
    "feeds": [
     "aamadisonwi.org",
+    "area63aa.org",
     "greenbayaa.org"
    ],
    "bbox": [
@@ -1184,6 +1256,24 @@
     -82.1376,
     40.6123,
     -80.5503
+   ]
+  },
+  {
+   "file": "us-wy.json",
+   "country": "US",
+   "state": "WY",
+   "meetings": 382,
+   "bytes": 172593,
+   "sha256": "df8dff49deed642123c554a360a938b06d7b5bd885c6f15416b946b1bce115b2",
+   "with_coords": 382,
+   "feeds": [
+    "wyomingaa.org"
+   ],
+   "bbox": [
+    41.1139,
+    -111.0225,
+    44.9082,
+    -104.0687
    ]
   }
  ],
@@ -1217,6 +1307,12 @@
    "homepage": "https://aa-eci.org/",
    "status": "not modified",
    "meetings": 78
+  },
+  "aa-mississippi.org": {
+   "name": "Mississippi Area 37",
+   "homepage": "https://aa-mississippi.org",
+   "status": "fetched (964 KB)",
+   "meetings": 811
   },
   "aa-semi.org": {
    "name": "SanilacCountyHotline",
@@ -1322,6 +1418,12 @@
    "homepage": "https://aahalton.org/",
    "status": "fetched (80 KB)",
    "meetings": 62
+  },
+  "aahamilton.org": {
+   "name": "A.A.CentralOffice",
+   "homepage": "https://www.aahamilton.org",
+   "status": "not modified",
+   "meetings": 88
   },
   "aaharrisburg.org": {
    "name": "HarrisburgIntergroup",
@@ -1557,6 +1659,12 @@
     "no_day_or_time": 1
    }
   },
+  "aasfmarin.org": {
+   "name": "San Francisco and Marin Intergroup",
+   "homepage": "https://aasfmarin.org",
+   "status": "not modified",
+   "meetings": 887
+  },
   "aasj.org": {
    "name": "SouthJerseyIntergroupAssc.",
    "homepage": "https://aasj.org/",
@@ -1641,6 +1749,12 @@
    "status": "fetched (174 KB)",
    "meetings": 190
   },
+  "aavt.org": {
+   "name": "Vermont Area 70",
+   "homepage": "https://aavt.org",
+   "status": "fetched (549 KB)",
+   "meetings": 526
+  },
   "aawesttn.org": {
    "name": "Jackson/WestTennessee Intergroup",
    "homepage": "https://aawesttn.org/",
@@ -1679,6 +1793,18 @@
    "homepage": "https://area34district12.org/",
    "status": "not modified",
    "meetings": 40
+  },
+  "area41.org": {
+   "name": "Nebraska Area 41",
+   "homepage": "https://www.area41.org/",
+   "status": "fetched (1252 KB)",
+   "meetings": 1189
+  },
+  "area63aa.org": {
+   "name": "South Dakota Area 63",
+   "homepage": "https://area63aa.org",
+   "status": "fetched (467 KB)",
+   "meetings": 412
   },
   "area78.org": {
    "name": "RedDeerArea78-24Hour AnsweringService",
@@ -1767,8 +1893,8 @@
   "cbiaa.org": {
    "name": "CoastalBendIntergroup Association",
    "homepage": "https://www.cbiaa.org",
-   "status": "fetched (285 KB)",
-   "meetings": 268,
+   "status": "fetched (284 KB)",
+   "meetings": 267,
    "dropped": {
     "no_day_or_time": 1
    }
@@ -1832,6 +1958,15 @@
    "homepage": "https://www.coloradospringsaa.org/",
    "status": "not modified",
    "meetings": 296
+  },
+  "ct-aa.org": {
+   "name": "Connecticut Area 11",
+   "homepage": "https://ct-aa.org",
+   "status": "fetched (1905 KB)",
+   "meetings": 1907,
+   "dropped": {
+    "no_day_or_time": 1
+   }
   },
   "cviaa.org": {
    "name": "CentralValleyIntergroup",
@@ -1977,6 +2112,15 @@
    "status": "fetched (257 KB)",
    "meetings": 212
   },
+  "idahoarea18aa.org": {
+   "name": "Idaho Area 18",
+   "homepage": "https://idahoarea18aa.org",
+   "status": "not modified",
+   "meetings": 667,
+   "dropped": {
+    "no_day_or_time": 1
+   }
+  },
   "indyaa.org": {
    "name": "IndianapolisIntergroupInc.",
    "homepage": "https://indyaa.org/",
@@ -2004,8 +2148,14 @@
   "kc-aa.org": {
    "name": "KansasCityAreaCentralOffice",
    "homepage": "https://kc-aa.org/",
-   "status": "fetched (1702 KB)",
-   "meetings": 1379
+   "status": "fetched (1699 KB)",
+   "meetings": 1377
+  },
+  "kerncountyaa.com": {
+   "name": "Kern County AA Central Office",
+   "homepage": "https://kerncountyaa.com",
+   "status": "fetched (173 KB)",
+   "meetings": 205
   },
   "kingstonaa.org": {
    "name": "Dist36AnsweringService",
@@ -2019,11 +2169,23 @@
    "status": "fetched (48 KB)",
    "meetings": 52
   },
+  "ks-aa.org": {
+   "name": "Kansas Area 25",
+   "homepage": "https://ks-aa.org",
+   "status": "fetched (1655 KB)",
+   "meetings": 1429
+  },
   "leecountyaa.org": {
    "name": "LeeCountyAreaIntergroup",
    "homepage": "https://leecountyaa.org/",
    "status": "fetched (374 KB)",
    "meetings": 364
+  },
+  "lincaa.org": {
+   "name": "Lincoln Central Service Office",
+   "homepage": "https://lincaa.org",
+   "status": "fetched (9 KB)",
+   "meetings": 7
   },
   "livingstonareaintergroup.org": {
    "name": "LivingstonAreaIntergroup",
@@ -2175,7 +2337,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (653 KB)",
+   "status": "fetched (624 KB)",
    "meetings": 392
   },
   "pdxaa.com": {
@@ -2358,6 +2520,12 @@
    "status": "not modified",
    "meetings": 168
   },
+  "vancouveraa.ca": {
+   "name": "GreaterVancouverIntergroup Society",
+   "homepage": "https://vancouveraa.ca/",
+   "status": "not modified",
+   "meetings": 578
+  },
   "victorvalleyaa.org": {
    "name": "VictorValleyIntergroupCentral OfficeInc.",
    "homepage": "https://victorvalleyaa.org/",
@@ -2387,6 +2555,12 @@
    "dropped": {
     "no_day_or_time": 1
    }
+  },
+  "wyomingaa.org": {
+   "name": "Wyoming Area 76",
+   "homepage": "https://wyomingaa.org",
+   "status": "fetched (409 KB)",
+   "meetings": 407
   },
   "york-pa-aa.org": {
    "name": "YorkAreaIntergroup",
