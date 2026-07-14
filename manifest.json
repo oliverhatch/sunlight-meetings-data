@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated": "2026-07-14T08:44:22",
- "meetings": 134394,
+ "generated": "2026-07-14T08:50:08",
+ "meetings": 134550,
  "shards": [
   {
    "file": "ca-ab.json",
@@ -870,10 +870,10 @@
    "file": "us-nc.json",
    "country": "US",
    "state": "NC",
-   "meetings": 4714,
-   "bytes": 2216133,
-   "sha256": "e7660718a249179c34b2ded9a5def2857742519e5912972d65cf96ca377970a5",
-   "with_coords": 4714,
+   "meetings": 4869,
+   "bytes": 2285957,
+   "sha256": "0d90b74b88f367f2628b2b9752f91b3d6956cb43ab9e6f58289bdeb233027c74",
+   "with_coords": 4869,
    "feeds": [
     "aalansingmi.org",
     "aanc33.org",
@@ -885,6 +885,7 @@
     "charlotteaa.org",
     "fayaa.org",
     "moorecountyaa.org",
+    "nwpi.net",
     "okcintergroup.org",
     "raleighaa.com",
     "tidewaterintergroup.org",
@@ -1229,10 +1230,10 @@
    "file": "us-tn.json",
    "country": "US",
    "state": "TN",
-   "meetings": 4463,
-   "bytes": 1856316,
-   "sha256": "a47709d6cca63f87b8eef7dbca47a892e02bb99438b201baaddb1d266ff2edba",
-   "with_coords": 4463,
+   "meetings": 4464,
+   "bytes": 1856726,
+   "sha256": "09ee60188074ac025c48c693ee3a1c1d0c217eceb86d9f0abcd29e2b5215ee6a",
+   "with_coords": 4464,
    "feeds": [
     "aanashville.org",
     "aawesttn.org",
@@ -1724,8 +1725,8 @@
   "aanashville.org": {
    "name": "MiddleTennesseeCentralOffice",
    "homepage": "https://aanashville.org/",
-   "status": "fetched (872 KB)",
-   "meetings": 1029
+   "status": "fetched (873 KB)",
+   "meetings": 1030
   },
   "aanc33.org": {
    "name": "Dist.33AnsweringService- Alamance,Caswell,Chatham, OrangeCounties",
@@ -1748,7 +1749,7 @@
   "aanorthcarolina.org": {
    "name": "North Carolina Area 51",
    "homepage": "https://aanorthcarolina.org",
-   "status": "fetched (3720 KB)",
+   "status": "not modified",
    "meetings": 3081,
    "dropped": {
     "no_day_or_time": 3
@@ -1838,7 +1839,7 @@
   "aasantacruz.org": {
    "name": "SantaCruzCountyIntergroup Inc.",
    "homepage": "https://aasantacruz.org/",
-   "status": "fetched (400 KB)",
+   "status": "not modified",
    "meetings": 338
   },
   "aasaskatoon.org": {
@@ -2624,6 +2625,12 @@
    "status": "fetched (1041 KB)",
    "meetings": 796
   },
+  "nwpi.net": {
+   "name": "Northwest Piedmont Intergroup (Winston-Salem)",
+   "homepage": "https://nwpi.net",
+   "status": "fetched (155 KB)",
+   "meetings": 155
+  },
   "nyintergroup.org": {
    "name": "Inter-GroupAssociationofA.A.of NewYork,Inc.",
    "homepage": "https://www.nyintergroup.org/",
@@ -2672,7 +2679,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (609 KB)",
+   "status": "fetched (638 KB)",
    "meetings": 392
   },
   "pdxaa.com": {
