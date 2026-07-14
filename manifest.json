@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated": "2026-07-14T10:13:00",
- "meetings": 134613,
+ "generated": "2026-07-14T10:40:12",
+ "meetings": 135313,
  "shards": [
   {
    "file": "ca-ab.json",
@@ -121,9 +121,9 @@
    "country": "CA",
    "state": "ON",
    "meetings": 1347,
-   "bytes": 740010,
-   "sha256": "dff6f56ecbdefc20f0b95dca3a305d272fc8db7f7a82a6592f60e3e1e29f6983",
-   "with_coords": 1347,
+   "bytes": 735530,
+   "sha256": "6825c215e1bacff3e003cfbfd5b2216566bd043fe160eb0e2d31d8a99e12a28b",
+   "with_coords": 1250,
    "feeds": [
     "aahalton.org",
     "aahamilton.org",
@@ -151,9 +151,9 @@
    "country": "CA",
    "state": "QC",
    "meetings": 45,
-   "bytes": 21865,
-   "sha256": "b3ffc3001ac2712cf06b2274ce0d58d1e6bac2e128cf7ff28d8a21a11a0a847f",
-   "with_coords": 45,
+   "bytes": 21848,
+   "sha256": "19cc4996fab05e94d8de7b9aa7fda9b61a0d23be78301350a527f32adb3a5801",
+   "with_coords": 44,
    "feeds": [
     "ottawaaa.org"
    ],
@@ -654,18 +654,19 @@
    "file": "us-la.json",
    "country": "US",
    "state": "LA",
-   "meetings": 175,
-   "bytes": 85910,
-   "sha256": "ce5e0f29ced955566f38b741ff9b5ca9eaddb4cc2e7f9eb8d38bb35e2555ef12",
-   "with_coords": 175,
+   "meetings": 753,
+   "bytes": 261173,
+   "sha256": "441bcafa887bc065e5c3f00cc81df44b9166de275e4602f83b0767e9a495a11d",
+   "with_coords": 740,
    "feeds": [
-    "aa-acadiana.org"
+    "aa-acadiana.org",
+    "aaneworleans.org"
    ],
    "bbox": [
-    29.6949,
+    29.2386,
     -92.5089,
-    30.6886,
-    -91.2089
+    30.7538,
+    -89.4803
    ]
   },
   {
@@ -790,8 +791,8 @@
    "country": "US",
    "state": "MO",
    "meetings": 4609,
-   "bytes": 2017674,
-   "sha256": "8e6142142777bfd0ed2a3e178a221c364bd34226abff2a47377fb5ed7cecc2dd",
+   "bytes": 2017654,
+   "sha256": "97682045d1970dd160d6e6099c8449736f5ff4aa60914f6059ed3b222552f2c4",
    "with_coords": 4609,
    "feeds": [
     "aacomm.org",
@@ -982,11 +983,12 @@
    "file": "us-nm.json",
    "country": "US",
    "state": "NM",
-   "meetings": 1586,
-   "bytes": 767071,
-   "sha256": "6e5d3c1f1899f0fc0bb4e55ad8e4f11c47590d78ef0e31375a89f3b24798c0c9",
+   "meetings": 1616,
+   "bytes": 773931,
+   "sha256": "4d87140f6d04a28fe3f5be98b44cfe01c7b80dbc567935a717189d0b7c63b6c7",
    "with_coords": 1586,
    "feeds": [
+    "aaelpaso.org",
     "albuquerqueaa.org",
     "area03.com",
     "nm-aa.org",
@@ -1088,8 +1090,8 @@
    "country": "US",
    "state": "OK",
    "meetings": 3085,
-   "bytes": 1415519,
-   "sha256": "6f687e3e5839d12a10274a461a90cdb149c3c973a185c5fdae202a2b60264584",
+   "bytes": 1415529,
+   "sha256": "ce57a04b4db5100f98fe174924276960a15c334ad4ae152f8ac8f5b2ce8574c5",
    "with_coords": 3085,
    "feeds": [
     "aafsig.org",
@@ -1254,12 +1256,13 @@
    "file": "us-tx.json",
    "country": "US",
    "state": "TX",
-   "meetings": 6652,
-   "bytes": 3040120,
-   "sha256": "d9886b5e47a2f896bc755ace61df04c03b9d0690d3dbfca2211849f60284a138",
-   "with_coords": 6652,
+   "meetings": 6744,
+   "bytes": 3067094,
+   "sha256": "626815ed92f0e421824fa2fd0108691b581eb369050b2731f9d7cb816b30f3d5",
+   "with_coords": 6744,
    "feeds": [
     "aadallas.org",
+    "aaelpaso.org",
     "aahouston.org",
     "aalansingmi.org",
     "aasanantonio.org",
@@ -2635,7 +2638,7 @@
   "nyintergroup.org": {
    "name": "Inter-GroupAssociationofA.A.of NewYork,Inc.",
    "homepage": "https://www.nyintergroup.org/",
-   "status": "fetched (3764 KB)",
+   "status": "http_522 (stale kept)",
    "meetings": 2877
   },
   "oahucentraloffice.com": {
@@ -2680,7 +2683,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (512 KB)",
+   "status": "fetched (540 KB)",
    "meetings": 392
   },
   "pdxaa.com": {
@@ -2884,7 +2887,7 @@
   "victorvalleyaa.org": {
    "name": "VictorValleyIntergroupCentral OfficeInc.",
    "homepage": "https://victorvalleyaa.org/",
-   "status": "fetched (169 KB)",
+   "status": "not modified",
    "meetings": 166
   },
   "wamo-aa.org": {
@@ -3150,6 +3153,21 @@
    "homepage": "https://westmidistrict5aa.org",
    "status": "local",
    "meetings": 106
+  },
+  "aaelpaso.org": {
+   "name": "El Paso Area (One Day at a Time)",
+   "homepage": "https://aaelpaso.org",
+   "status": "local",
+   "meetings": 122
+  },
+  "aaneworleans.org": {
+   "name": "Greater New Orleans Central Office",
+   "homepage": "https://aaneworleans.org",
+   "status": "local",
+   "meetings": 578,
+   "dropped": {
+    "duplicate_slug": 14
+   }
   }
  }
 }
