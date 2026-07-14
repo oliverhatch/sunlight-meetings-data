@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated": "2026-07-14T13:51:53",
- "meetings": 137866,
+ "generated": "2026-07-14T14:05:07",
+ "meetings": 138450,
  "shards": [
   {
    "file": "ca-ab.json",
@@ -273,7 +273,7 @@
    "state": "AZ",
    "meetings": 4866,
    "bytes": 2172396,
-   "sha256": "7eff093d2fba990f621ddc01a790ca1be1cfe256d897a9df2ea62925649be246",
+   "sha256": "51d854d2a1bf6d42414e13cf3d3b90cc39a96e2b4493bf528c19dbf10106de01",
    "with_coords": 4866,
    "feeds": [
     "aamesaaz.org",
@@ -295,16 +295,17 @@
    "file": "us-ca.json",
    "country": "US",
    "state": "CA",
-   "meetings": 19342,
-   "bytes": 8858400,
-   "sha256": "9ec58b06e8c451d971954a90628e2a9982a3fd0659b550f8be246e93556dcef7",
-   "with_coords": 17439,
+   "meetings": 19926,
+   "bytes": 9014485,
+   "sha256": "29f65bc9e990016684fdb47224cf4fdde00ec229b2a7dc52922492973efeefe9",
+   "with_coords": 18018,
    "feeds": [
     "aa-san-mateo.org",
     "aa-tulareco.org",
     "aa52centraloffice.org",
     "aabutte-glenn.org",
     "aadavis.org",
+    "aadelta.org",
     "aahumboldtdelnorte.org",
     "aainlandempire.org",
     "aainthedesert.org",
@@ -2640,7 +2641,7 @@
   "nyintergroup.org": {
    "name": "Inter-GroupAssociationofA.A.of NewYork,Inc.",
    "homepage": "https://www.nyintergroup.org/",
-   "status": "fetched (3764 KB)",
+   "status": "http_522 (stale kept)",
    "meetings": 2877
   },
   "oahucentraloffice.com": {
@@ -2685,7 +2686,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (570 KB)",
+   "status": "fetched (637 KB)",
    "meetings": 385
   },
   "pdxaa.com": {
@@ -2883,7 +2884,7 @@
   "vancouveraa.ca": {
    "name": "GreaterVancouverIntergroup Society",
    "homepage": "https://vancouveraa.ca/",
-   "status": "fetched (733 KB)",
+   "status": "not modified",
    "meetings": 575
   },
   "victorvalleyaa.org": {
@@ -3155,6 +3156,16 @@
    "homepage": "https://westmidistrict5aa.org",
    "status": "local",
    "meetings": 106
+  },
+  "aadelta.org": {
+   "name": "Delta Intergroup (Stockton/San Joaquin)",
+   "homepage": "https://aadelta.org",
+   "status": "local",
+   "meetings": 584,
+   "dropped": {
+    "no_day_or_time": 94,
+    "duplicate_slug": 33
+   }
   },
   "aaelpaso.org": {
    "name": "El Paso Area (One Day at a Time)",
