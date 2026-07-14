@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated": "2026-07-13T21:02:15",
- "meetings": 128688,
+ "generated": "2026-07-13T21:17:06",
+ "meetings": 131859,
  "shards": [
   {
    "file": "ca-ab.json",
@@ -121,9 +121,9 @@
    "country": "CA",
    "state": "ON",
    "meetings": 1347,
-   "bytes": 735530,
-   "sha256": "6825c215e1bacff3e003cfbfd5b2216566bd043fe160eb0e2d31d8a99e12a28b",
-   "with_coords": 1250,
+   "bytes": 740010,
+   "sha256": "dff6f56ecbdefc20f0b95dca3a305d272fc8db7f7a82a6592f60e3e1e29f6983",
+   "with_coords": 1347,
    "feeds": [
     "aahalton.org",
     "aahamilton.org",
@@ -151,9 +151,9 @@
    "country": "CA",
    "state": "QC",
    "meetings": 45,
-   "bytes": 21848,
-   "sha256": "19cc4996fab05e94d8de7b9aa7fda9b61a0d23be78301350a527f32adb3a5801",
-   "with_coords": 44,
+   "bytes": 21865,
+   "sha256": "b3ffc3001ac2712cf06b2274ce0d58d1e6bac2e128cf7ff28d8a21a11a0a847f",
+   "with_coords": 45,
    "feeds": [
     "ottawaaa.org"
    ],
@@ -294,16 +294,17 @@
    "file": "us-ca.json",
    "country": "US",
    "state": "CA",
-   "meetings": 17777,
-   "bytes": 8235069,
-   "sha256": "8a67322db706972b163b454d76ed04ddb3dad9ebea77180855345d20c200229a",
-   "with_coords": 15874,
+   "meetings": 18417,
+   "bytes": 8476410,
+   "sha256": "0632ca1df479909ce2835e7f247beb25dbfece69d7bd626d39be885179eb812a",
+   "with_coords": 16514,
    "feeds": [
     "aa-san-mateo.org",
     "aa-tulareco.org",
     "aa52centraloffice.org",
     "aabutte-glenn.org",
     "aadelta.org",
+    "aainthedesert.org",
     "aalansingmi.org",
     "aamonterey.org",
     "aanorcal.org",
@@ -505,13 +506,14 @@
    "file": "us-ia.json",
    "country": "US",
    "state": "IA",
-   "meetings": 1841,
-   "bytes": 811736,
-   "sha256": "4b63ecfc2bb4c0d84675437369c7a9d0be7be06973070a9914bce87af3f9f199",
-   "with_coords": 1841,
+   "meetings": 1922,
+   "bytes": 842462,
+   "sha256": "1f6c5ef51a072a0b8fba0ad178a70555bb9a0339d1f5786808237606a7d12cef",
+   "with_coords": 1922,
    "feeds": [
     "aa-cedarrapids.org",
     "aa-iowa.org",
+    "aacentraliowa.org",
     "aadesmoines.org",
     "aaquadcities.org",
     "amesaa.org",
@@ -1097,13 +1099,14 @@
    "file": "us-or.json",
    "country": "US",
    "state": "OR",
-   "meetings": 2317,
-   "bytes": 1104438,
-   "sha256": "23437517ae5366469c553563670ae02a58d9f509824795496283c760aa155098",
-   "with_coords": 2317,
+   "meetings": 2468,
+   "bytes": 1158770,
+   "sha256": "98d7193e7e14970eb9137a58c45314ead6df120ca45869f3f309490edf2c0d05",
+   "with_coords": 2468,
    "feeds": [
     "aa-oregon.org",
     "aaalbanyny.org",
+    "aasalem.org",
     "area92aa.org",
     "coigaa.org",
     "eviaa.org",
@@ -1217,22 +1220,23 @@
    "file": "us-tn.json",
    "country": "US",
    "state": "TN",
-   "meetings": 2164,
-   "bytes": 965348,
-   "sha256": "188316cbd0c8cba3d45e87b0d293fc76d1650e88b99f2e9b1de9308e4e4a7504",
-   "with_coords": 2164,
+   "meetings": 4463,
+   "bytes": 1856316,
+   "sha256": "a47709d6cca63f87b8eef7dbca47a892e02bb99438b201baaddb1d266ff2edba",
+   "with_coords": 4463,
    "feeds": [
     "aanashville.org",
     "aawesttn.org",
+    "area64assembly.org",
     "chattanooga-aa.com",
     "etiaa.org",
     "memphis-aa.org"
    ],
    "bbox": [
-    34.9939,
-    -90.0842,
-    36.5998,
-    -81.8081
+    34.4917,
+    -90.3108,
+    36.6393,
+    -81.7872
    ]
   },
   {
@@ -1456,7 +1460,7 @@
   "aa-oregon.org": {
    "name": "Oregon Area 58",
    "homepage": "https://www.aa-oregon.org/",
-   "status": "URLError (stale kept)",
+   "status": "fetched (318 KB)",
    "meetings": 277
   },
   "aa-semi.org": {
@@ -1627,7 +1631,7 @@
   "aalv.org": {
    "name": "ABEIntergroup",
    "homepage": "https://www.aalv.org",
-   "status": "fetched (229 KB)",
+   "status": "not modified",
    "meetings": 213
   },
   "aamadisonwi.org": {
@@ -2611,7 +2615,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (569 KB)",
+   "status": "fetched (512 KB)",
    "meetings": 392
   },
   "pdxaa.com": {
@@ -2803,7 +2807,7 @@
   "vancouveraa.ca": {
    "name": "GreaterVancouverIntergroup Society",
    "homepage": "https://vancouveraa.ca/",
-   "status": "fetched (734 KB)",
+   "status": "not modified",
    "meetings": 576
   },
   "victorvalleyaa.org": {
@@ -2884,6 +2888,12 @@
    "status": "local",
    "meetings": 2660
   },
+  "aacentraliowa.org": {
+   "name": "AA Central Iowa",
+   "homepage": "https://aacentraliowa.org",
+   "status": "local",
+   "meetings": 81
+  },
   "aadallas.org": {
    "name": "DallasIntergroupAssociation",
    "homepage": "https://aadallas.org",
@@ -2895,6 +2905,12 @@
    "homepage": "https://aadaytona.org",
    "status": "local",
    "meetings": 310
+  },
+  "aainthedesert.org": {
+   "name": "CentralIntergroupOfficeOfThe Desert",
+   "homepage": "https://aainthedesert.org",
+   "status": "local",
+   "meetings": 640
   },
   "aamiamidade.org": {
    "name": "Miami-DadeIntergroup",
@@ -2914,6 +2930,12 @@
    "status": "local",
    "meetings": 246
   },
+  "aasalem.org": {
+   "name": "Willamette Valley Intergroup",
+   "homepage": "https://aasalem.org",
+   "status": "local",
+   "meetings": 151
+  },
   "aasolanonorth.org": {
    "name": "NorthSolanoIntergroup",
    "homepage": "https://aasolanonorth.org",
@@ -2925,6 +2947,12 @@
    "homepage": "https://akronaa.org",
    "status": "local",
    "meetings": 373
+  },
+  "area64assembly.org": {
+   "name": "Tennessee Area 64 Assembly",
+   "homepage": "https://area64assembly.org",
+   "status": "local",
+   "meetings": 2299
   },
   "ashevilleaa.org": {
    "name": "N.C.MountainCentralOffice",
