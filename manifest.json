@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated": "2026-07-14T08:50:08",
- "meetings": 134550,
+ "generated": "2026-07-14T10:13:00",
+ "meetings": 134613,
  "shards": [
   {
    "file": "ca-ab.json",
@@ -121,9 +121,9 @@
    "country": "CA",
    "state": "ON",
    "meetings": 1347,
-   "bytes": 735530,
-   "sha256": "6825c215e1bacff3e003cfbfd5b2216566bd043fe160eb0e2d31d8a99e12a28b",
-   "with_coords": 1250,
+   "bytes": 740010,
+   "sha256": "dff6f56ecbdefc20f0b95dca3a305d272fc8db7f7a82a6592f60e3e1e29f6983",
+   "with_coords": 1347,
    "feeds": [
     "aahalton.org",
     "aahamilton.org",
@@ -151,9 +151,9 @@
    "country": "CA",
    "state": "QC",
    "meetings": 45,
-   "bytes": 21848,
-   "sha256": "19cc4996fab05e94d8de7b9aa7fda9b61a0d23be78301350a527f32adb3a5801",
-   "with_coords": 44,
+   "bytes": 21865,
+   "sha256": "b3ffc3001ac2712cf06b2274ce0d58d1e6bac2e128cf7ff28d8a21a11a0a847f",
+   "with_coords": 45,
    "feeds": [
     "ottawaaa.org"
    ],
@@ -225,8 +225,8 @@
    "country": "US",
    "state": "AL",
    "meetings": 875,
-   "bytes": 405661,
-   "sha256": "73a1c662661716030c58bb814ffe5d9512dda6e6209fd9aee1491c977681b2b8",
+   "bytes": 405687,
+   "sha256": "7bf35fd9d44a5b129af8c1ddccbd9bb45471456601c62b6ee07038956f827ac4",
    "with_coords": 875,
    "feeds": [
     "aahuntsvilleal.com",
@@ -239,7 +239,7 @@
    ],
    "bbox": [
     30.2502,
-    -88.3656,
+    -88.3701,
     34.9294,
     -85.8827
    ]
@@ -296,8 +296,8 @@
    "country": "US",
    "state": "CA",
    "meetings": 19342,
-   "bytes": 8858415,
-   "sha256": "f5b636d650ccf5d6421d01c2665d7c6b25332cfa202f16821533295cf445b55b",
+   "bytes": 8858442,
+   "sha256": "c8627fca3074a3f3376cd5a4d14b001be0ce9064dc24410caa8d2c09cceee2cc",
    "with_coords": 17439,
    "feeds": [
     "aa-san-mateo.org",
@@ -514,8 +514,8 @@
    "country": "US",
    "state": "IA",
    "meetings": 1888,
-   "bytes": 829419,
-   "sha256": "736a5c11c6f0bbb97c6de6543d43c06eb3ed1f92002cddd5e977c73adc8fc4f1",
+   "bytes": 829443,
+   "sha256": "bf88dcb0510c08dc19714929bb2f5e42089b2e1d959f6f5c7db4767fbdb328a0",
    "with_coords": 1888,
    "feeds": [
     "aa-cedarrapids.org",
@@ -587,8 +587,8 @@
    "country": "US",
    "state": "IN",
    "meetings": 1941,
-   "bytes": 895006,
-   "sha256": "080f9b632770f967acbc4286f65351576695c4a2ac14d3fd09372861562947cc",
+   "bytes": 895158,
+   "sha256": "59a65d23c94950b05a02cc62fc87028025c9ab3692aecccda01df34b42ba04f5",
    "with_coords": 1941,
    "feeds": [
     "aacincinnati.org",
@@ -1024,8 +1024,8 @@
    "country": "US",
    "state": "NY",
    "meetings": 8394,
-   "bytes": 4246304,
-   "sha256": "57745fc632ea10a651c22debfe0c85fa22215cce0d7fee62cbe69f81112992c5",
+   "bytes": 4246404,
+   "sha256": "783b11550249dbccae64d7ef1bfc92a7671c3353bff0beb16e36b2323347ed49",
    "with_coords": 8394,
    "feeds": [
     "aaalbanyny.org",
@@ -1056,10 +1056,10 @@
    "file": "us-oh.json",
    "country": "US",
    "state": "OH",
-   "meetings": 4117,
-   "bytes": 1878862,
-   "sha256": "9dcf38b11e4c35130721da40a9dfd9e9cf323c3a9e8d611e1baac2d8e959da5d",
-   "with_coords": 4115,
+   "meetings": 4180,
+   "bytes": 1903698,
+   "sha256": "878290fab1eb856a0375d522ae1a5d0844464833562becb7c55db72c1377969f",
+   "with_coords": 4178,
    "feeds": [
     "aacentralohio.org",
     "aacincinnati.org",
@@ -1070,6 +1070,7 @@
     "akronaa.org",
     "area22indiana.org",
     "area53aa.org",
+    "area54.org",
     "area55aa.org",
     "cmia32.org",
     "mansfieldaa.org",
@@ -2679,7 +2680,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (638 KB)",
+   "status": "fetched (512 KB)",
    "meetings": 392
   },
   "pdxaa.com": {
@@ -2883,7 +2884,7 @@
   "victorvalleyaa.org": {
    "name": "VictorValleyIntergroupCentral OfficeInc.",
    "homepage": "https://victorvalleyaa.org/",
-   "status": "not modified",
+   "status": "fetched (169 KB)",
    "meetings": 166
   },
   "wamo-aa.org": {
@@ -3023,6 +3024,12 @@
    "homepage": "https://akronaa.org",
    "status": "local",
    "meetings": 373
+  },
+  "area54.org": {
+   "name": "Northeast Ohio Area 54",
+   "homepage": "https://area54.org",
+   "status": "local",
+   "meetings": 63
   },
   "area64assembly.org": {
    "name": "Tennessee Area 64 Assembly",
