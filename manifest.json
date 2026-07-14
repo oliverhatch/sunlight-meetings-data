@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated": "2026-07-13T21:29:48",
- "meetings": 132296,
+ "generated": "2026-07-13T21:34:38",
+ "meetings": 132783,
  "shards": [
   {
    "file": "ca-ab.json",
@@ -294,15 +294,16 @@
    "file": "us-ca.json",
    "country": "US",
    "state": "CA",
-   "meetings": 18854,
-   "bytes": 8656620,
-   "sha256": "32707fe9b590771c99bdce9b51e509191b896662af6778b23b78858e05f79839",
-   "with_coords": 16951,
+   "meetings": 19341,
+   "bytes": 8857804,
+   "sha256": "3bbb41789290c9cdeb485fe217a5545706325c8e823849fd83e3f478e275a339",
+   "with_coords": 17438,
    "feeds": [
     "aa-san-mateo.org",
     "aa-tulareco.org",
     "aa52centraloffice.org",
     "aabutte-glenn.org",
+    "aadavis.org",
     "aahumboldtdelnorte.org",
     "aainlandempire.org",
     "aainthedesert.org",
@@ -310,6 +311,7 @@
     "aamonterey.org",
     "aanorcal.org",
     "aanorthcarolina.org",
+    "aaplacer.org",
     "aasalinas.org",
     "aasandiego.org",
     "aasanjose.org",
@@ -320,6 +322,7 @@
     "aasolanosouth.org",
     "aaukiah.org",
     "aaventuracounty.org",
+    "cnia30.org",
     "cviaa.org",
     "eastbayaa.org",
     "fresnoaa.org",
@@ -329,6 +332,7 @@
     "mendocinocoastaa.com",
     "nosdco-aa.org",
     "oc-aa.org",
+    "sacslaa.org",
     "santabarbaraaa.com",
     "sloaa.org",
     "sonomacountyaa.org",
@@ -1512,6 +1516,12 @@
    "status": "fetched (160 KB)",
    "meetings": 197
   },
+  "aadavis.org": {
+   "name": "CNIA District 17 (Davis/Woodland)",
+   "homepage": "https://aadavis.org",
+   "status": "fetched (169 KB)",
+   "meetings": 156
+  },
   "aadaytononline.org": {
    "name": "*CentralOfficeOfDayton,Inc.",
    "homepage": "https://aadaytononline.org/",
@@ -2202,6 +2212,12 @@
    "status": "fetched (597 KB)",
    "meetings": 950
   },
+  "cnia30.org": {
+   "name": "CNIA District 30",
+   "homepage": "https://cnia30.org",
+   "status": "fetched (56 KB)",
+   "meetings": 67
+  },
   "coigaa.org": {
    "name": "CentralOregonIntergroup",
    "homepage": "https://coigaa.org/",
@@ -2577,7 +2593,7 @@
   "nyintergroup.org": {
    "name": "Inter-GroupAssociationofA.A.of NewYork,Inc.",
    "homepage": "https://www.nyintergroup.org/",
-   "status": "fetched (3764 KB)",
+   "status": "http_522 (stale kept)",
    "meetings": 2877
   },
   "oahucentraloffice.com": {
@@ -2622,7 +2638,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (521 KB)",
+   "status": "fetched (540 KB)",
    "meetings": 392
   },
   "pdxaa.com": {
@@ -2696,6 +2712,12 @@
    "homepage": "https://district70aa.org/",
    "status": "fetched (234 KB)",
    "meetings": 206
+  },
+  "sacslaa.org": {
+   "name": "Sacramento Area Intergroup",
+   "homepage": "https://sacslaa.org",
+   "status": "fetched (11 KB)",
+   "meetings": 9
   },
   "saginawaa.org": {
    "name": "SaginawValleyAnswering Service",
@@ -2936,6 +2958,12 @@
    "homepage": "https://aapeoria.org",
    "status": "local",
    "meetings": 246
+  },
+  "aaplacer.org": {
+   "name": "Placer County District 21",
+   "homepage": "https://aaplacer.org",
+   "status": "local",
+   "meetings": 255
   },
   "aasalem.org": {
    "name": "Willamette Valley Intergroup",
