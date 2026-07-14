@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated": "2026-07-13T21:17:06",
- "meetings": 131859,
+ "generated": "2026-07-13T21:29:48",
+ "meetings": 132296,
  "shards": [
   {
    "file": "ca-ab.json",
@@ -121,9 +121,9 @@
    "country": "CA",
    "state": "ON",
    "meetings": 1347,
-   "bytes": 740010,
-   "sha256": "dff6f56ecbdefc20f0b95dca3a305d272fc8db7f7a82a6592f60e3e1e29f6983",
-   "with_coords": 1347,
+   "bytes": 735530,
+   "sha256": "6825c215e1bacff3e003cfbfd5b2216566bd043fe160eb0e2d31d8a99e12a28b",
+   "with_coords": 1250,
    "feeds": [
     "aahalton.org",
     "aahamilton.org",
@@ -151,9 +151,9 @@
    "country": "CA",
    "state": "QC",
    "meetings": 45,
-   "bytes": 21865,
-   "sha256": "b3ffc3001ac2712cf06b2274ce0d58d1e6bac2e128cf7ff28d8a21a11a0a847f",
-   "with_coords": 45,
+   "bytes": 21848,
+   "sha256": "19cc4996fab05e94d8de7b9aa7fda9b61a0d23be78301350a527f32adb3a5801",
+   "with_coords": 44,
    "feeds": [
     "ottawaaa.org"
    ],
@@ -294,16 +294,17 @@
    "file": "us-ca.json",
    "country": "US",
    "state": "CA",
-   "meetings": 18417,
-   "bytes": 8476410,
-   "sha256": "0632ca1df479909ce2835e7f247beb25dbfece69d7bd626d39be885179eb812a",
-   "with_coords": 16514,
+   "meetings": 18854,
+   "bytes": 8656620,
+   "sha256": "32707fe9b590771c99bdce9b51e509191b896662af6778b23b78858e05f79839",
+   "with_coords": 16951,
    "feeds": [
     "aa-san-mateo.org",
     "aa-tulareco.org",
     "aa52centraloffice.org",
     "aabutte-glenn.org",
-    "aadelta.org",
+    "aahumboldtdelnorte.org",
+    "aainlandempire.org",
     "aainthedesert.org",
     "aalansingmi.org",
     "aamonterey.org",
@@ -338,8 +339,8 @@
    ],
    "bbox": [
     31.8534,
-    -123.8048,
-    41.7393,
+    -124.2644,
+    41.9272,
     -106.5348
    ]
   },
@@ -1520,12 +1521,6 @@
     "no_day_or_time": 2
    }
   },
-  "aadelta.org": {
-   "name": "*DeltaCentralOffice",
-   "homepage": "https://www.aadelta.org",
-   "status": "fetched (806 KB)",
-   "meetings": 750
-  },
   "aadesmoines.org": {
    "name": "CentralOffice/Intergroup",
    "homepage": "https://aadesmoines.org/",
@@ -1595,6 +1590,12 @@
    "status": "fetched (2037 KB)",
    "meetings": 1930
   },
+  "aahumboldtdelnorte.org": {
+   "name": "Humboldt Del Norte Intergroup",
+   "homepage": "https://aahumboldtdelnorte.org",
+   "status": "fetched (175 KB)",
+   "meetings": 172
+  },
   "aaigo.net": {
    "name": "AshtabulaAreaIntergroup",
    "homepage": "https://aaigo.net/",
@@ -1603,6 +1604,12 @@
    "dropped": {
     "no_day_or_time": 1
    }
+  },
+  "aainlandempire.org": {
+   "name": "Inland Empire Central Office",
+   "homepage": "https://aainlandempire.org",
+   "status": "fetched (957 KB)",
+   "meetings": 1015
   },
   "aainpalmbeach.org": {
    "name": "So.PalmBeachCounty IntergroupInc.",
@@ -2615,7 +2622,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (512 KB)",
+   "status": "fetched (521 KB)",
    "meetings": 392
   },
   "pdxaa.com": {
