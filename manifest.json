@@ -1,16 +1,16 @@
 {
  "schema_version": 1,
- "generated": "2026-07-14T14:05:07",
- "meetings": 138450,
+ "generated": "2026-07-14T18:23:18",
+ "meetings": 140322,
  "shards": [
   {
    "file": "ca-ab.json",
    "country": "CA",
    "state": "AB",
-   "meetings": 1782,
-   "bytes": 890179,
-   "sha256": "3178645035c36451faf39833519384c4c74082dabe00831fca51fd306282594c",
-   "with_coords": 1782,
+   "meetings": 1784,
+   "bytes": 891003,
+   "sha256": "214e54a6b9ac0cf74ae1086d4779ace7d93248b0445743fc49ff5dfe5e1388c4",
+   "with_coords": 1784,
    "feeds": [
     "area78.org",
     "calgaryaa.org",
@@ -28,8 +28,8 @@
    "country": "CA",
    "state": "BC",
    "meetings": 942,
-   "bytes": 439661,
-   "sha256": "ebd54e71bb82213fb0e69a57e630b5341ded3cdffeeff7b96985e45226b3e13c",
+   "bytes": 439997,
+   "sha256": "8ef37d351e00d08cef2de77a8b008798abc79eb39f91e531edfe699fd52d2ee1",
    "with_coords": 942,
    "feeds": [
     "aavictoria.ca",
@@ -271,12 +271,13 @@
    "file": "us-az.json",
    "country": "US",
    "state": "AZ",
-   "meetings": 4866,
-   "bytes": 2172396,
-   "sha256": "51d854d2a1bf6d42414e13cf3d3b90cc39a96e2b4493bf528c19dbf10106de01",
-   "with_coords": 4866,
+   "meetings": 6743,
+   "bytes": 2920528,
+   "sha256": "e74b4f74608e7a076f4c684b6fb57128ab5816b2ca11c9c5ec1ec0b27b509ec8",
+   "with_coords": 6743,
    "feeds": [
     "aamesaaz.org",
+    "aaphoenix.org",
     "aatucson.org",
     "area03.com",
     "area72aa.org",
@@ -295,10 +296,10 @@
    "file": "us-ca.json",
    "country": "US",
    "state": "CA",
-   "meetings": 19926,
-   "bytes": 9014485,
-   "sha256": "29f65bc9e990016684fdb47224cf4fdde00ec229b2a7dc52922492973efeefe9",
-   "with_coords": 18018,
+   "meetings": 19927,
+   "bytes": 8882723,
+   "sha256": "22d1693b5293a09c57f3246d4217eea0e2d65182a6a767a80cc20746121a167c",
+   "with_coords": 15064,
    "feeds": [
     "aa-san-mateo.org",
     "aa-tulareco.org",
@@ -355,8 +356,8 @@
    "country": "US",
    "state": "CO",
    "meetings": 1975,
-   "bytes": 825227,
-   "sha256": "e2cf6be7bd3e072c3417d89c60eec4ff74783f5902ace8441a3dcbdcc37f3c33",
+   "bytes": 825209,
+   "sha256": "3af359091cdab272304f3523619e63a2be08699a46453cb660c7c4d632fe1570",
    "with_coords": 1975,
    "feeds": [
     "coaadistrict14.org",
@@ -434,8 +435,8 @@
    "country": "US",
    "state": "FL",
    "meetings": 6269,
-   "bytes": 2819567,
-   "sha256": "009d0dc087201af94a3f43b8c300fa8e6bd29c15eaf5db6ce221683d7e0425a4",
+   "bytes": 2819547,
+   "sha256": "538c66e53b920dea711120c4ef507541a8e63e72142247753d9c450912262621",
    "with_coords": 6269,
    "feeds": [
     "aa-palmbeachcounty.org",
@@ -677,8 +678,8 @@
    "country": "US",
    "state": "MA",
    "meetings": 3203,
-   "bytes": 1218948,
-   "sha256": "b6081f2905c83359e2470a02f86cf399bf62e7c436ed065b935ef32a12185450",
+   "bytes": 1218939,
+   "sha256": "a8b7ddc183d2a14fa4f99712f1fe15ad92f1b8d3ee79970a09fd7ce92d31226b",
    "with_coords": 3195,
    "feeds": [
     "aaboston.org",
@@ -793,10 +794,10 @@
    "file": "us-mo.json",
    "country": "US",
    "state": "MO",
-   "meetings": 4609,
-   "bytes": 2017654,
-   "sha256": "97682045d1970dd160d6e6099c8449736f5ff4aa60914f6059ed3b222552f2c4",
-   "with_coords": 4609,
+   "meetings": 4608,
+   "bytes": 2017346,
+   "sha256": "e587f4a347287ac5d79ac7a86411cc0956ff9d2a2c5e95be4de8e0a0d46b3a18",
+   "with_coords": 4608,
    "feeds": [
     "aacomm.org",
     "aalansingmi.org",
@@ -966,8 +967,8 @@
    "country": "US",
    "state": "NJ",
    "meetings": 1017,
-   "bytes": 566730,
-   "sha256": "ddb690e9eae08a41e5b782b875361ba784975ebb5034f61bff4d86fc9dde3075",
+   "bytes": 566770,
+   "sha256": "f1a485a72738dc3de4fec2e634a99743c8f425dd470e5b1338d9e170a72eb130",
    "with_coords": 1017,
    "feeds": [
     "aasj.org",
@@ -1008,10 +1009,10 @@
    "file": "us-nv.json",
    "country": "US",
    "state": "NV",
-   "meetings": 1973,
-   "bytes": 791652,
-   "sha256": "ee756df67541ddc898d9ddd777467d64eb15d1e6f8c9f8b7e93875d1f7189139",
-   "with_coords": 1973,
+   "meetings": 1974,
+   "bytes": 791997,
+   "sha256": "9a149197aa17547cfe71bc48b16138c9dca7751a34395214cb1420dfd3c9649a",
+   "with_coords": 1974,
    "feeds": [
     "idahoarea18aa.org",
     "lvcentraloffice.org",
@@ -1145,8 +1146,8 @@
    "country": "US",
    "state": "PA",
    "meetings": 3945,
-   "bytes": 2131986,
-   "sha256": "0c04a7e52822f2ddd4fd8b637b1e8a72190f35c27eb3a04a85a9cbc7f1eebb0e",
+   "bytes": 2131990,
+   "sha256": "10071c345cdeefa55b2ac5b70fc0fe1bace46d6188352a7d2809541e3abbbee0",
    "with_coords": 3945,
    "feeds": [
     "aaharrisburg.org",
@@ -1259,10 +1260,10 @@
    "file": "us-tx.json",
    "country": "US",
    "state": "TX",
-   "meetings": 6744,
-   "bytes": 3067094,
-   "sha256": "626815ed92f0e421824fa2fd0108691b581eb369050b2731f9d7cb816b30f3d5",
-   "with_coords": 6744,
+   "meetings": 6743,
+   "bytes": 3066709,
+   "sha256": "d5c1c56b96ddab4825c23d32206c6a90667d38ee3be683bbf6a6f7c26e5113ce",
+   "with_coords": 6743,
    "feeds": [
     "aadallas.org",
     "aaelpaso.org",
@@ -1288,10 +1289,10 @@
    "file": "us-ut.json",
    "country": "US",
    "state": "UT",
-   "meetings": 418,
-   "bytes": 157696,
-   "sha256": "2c2dadc8354b033db6c5fcd03b892ff2e60840dacd352a0678f97270503ef4c6",
-   "with_coords": 418,
+   "meetings": 410,
+   "bytes": 154920,
+   "sha256": "3741b07d5df4f148c3257d22e4ed3d26b9c97a342cd6c768ce23920eddc0ed2e",
+   "with_coords": 410,
    "feeds": [
     "saltlakeaa.org"
    ],
@@ -1307,8 +1308,8 @@
    "country": "US",
    "state": "VA",
    "meetings": 3769,
-   "bytes": 1876364,
-   "sha256": "fa41844168d47e47c7e9c6cd17ed152e2a59985d9e45583a6b858fa1d31e3ea4",
+   "bytes": 1876322,
+   "sha256": "09c3050d19af34a78d047d70dfef626f5482f71ad4df1405ab49231ca42bae56",
    "with_coords": 3769,
    "feeds": [
     "aarichmond.org",
@@ -1330,10 +1331,10 @@
    "file": "us-vt.json",
    "country": "US",
    "state": "VT",
-   "meetings": 526,
-   "bytes": 256748,
-   "sha256": "892ab7b495fd9fed47914294f11b62cbde778b2fad13b8afcbfec222c58e05c2",
-   "with_coords": 526,
+   "meetings": 527,
+   "bytes": 257319,
+   "sha256": "9482358ca3d9401f6992e45a9e9599a480ba29c7b26f085309a6f31a6ea35c17",
+   "with_coords": 527,
    "feeds": [
     "aavt.org"
    ],
@@ -1349,8 +1350,8 @@
    "country": "US",
    "state": "WA",
    "meetings": 7316,
-   "bytes": 3450557,
-   "sha256": "45a094d0c89172c0939adb675e14680017c5b27949ecf239ea6a3cdd06898d3c",
+   "bytes": 3450563,
+   "sha256": "9519df5396eed00b1b1e72fb6f7e8e088bc750456e2f8e7b7d564a79f5f0c9f3",
    "with_coords": 7316,
    "feeds": [
     "3citiesaa.org",
@@ -1436,7 +1437,7 @@
    "name": "Los Angeles Central Office",
    "homepage": "https://lacoaa.org",
    "status": "local",
-   "meetings": 3785
+   "meetings": 3786
   },
   "aa-acadiana.org": {
    "name": "AcadianaAreaCentralOffice",
@@ -1675,7 +1676,7 @@
   "aalv.org": {
    "name": "ABEIntergroup",
    "homepage": "https://www.aalv.org",
-   "status": "not modified",
+   "status": "fetched (229 KB)",
    "meetings": 213
   },
   "aamadisonwi.org": {
@@ -1783,8 +1784,11 @@
   "aaphoenix.org": {
    "name": "SaltRiverIntergroup,Inc.",
    "homepage": "https://aaphoenix.org/",
-   "status": "http_404",
-   "meetings": 0
+   "status": "fetched (1849 KB)",
+   "meetings": 1877,
+   "dropped": {
+    "no_day_or_time": 2
+   }
   },
   "aapinellas.org": {
    "name": "PinellasCo.IntergroupInc.",
@@ -1972,8 +1976,8 @@
   "aavt.org": {
    "name": "Vermont Area 70",
    "homepage": "https://aavt.org",
-   "status": "fetched (549 KB)",
-   "meetings": 526
+   "status": "fetched (550 KB)",
+   "meetings": 527
   },
   "aawesttn.org": {
    "name": "Jackson/WestTennessee Intergroup",
@@ -2095,8 +2099,8 @@
   "area78.org": {
    "name": "RedDeerArea78-24Hour AnsweringService",
    "homepage": "https://area78aa.org/",
-   "status": "fetched (1419 KB)",
-   "meetings": 1095
+   "status": "fetched (1420 KB)",
+   "meetings": 1096
   },
   "area82aa.org": {
    "name": "area82aa.org",
@@ -2254,7 +2258,7 @@
   "coloradospringsaa.org": {
    "name": "ColoradoSpringsAreaService Office",
    "homepage": "https://www.coloradospringsaa.org/",
-   "status": "not modified",
+   "status": "fetched (363 KB)",
    "meetings": 296
   },
   "csoaamaine.org": {
@@ -2284,8 +2288,8 @@
   "d12aa.org": {
    "name": "Dist.12Office24Hr.Answering Service",
    "homepage": "https://district12.eamo.org/",
-   "status": "fetched (116 KB)",
-   "meetings": 101,
+   "status": "fetched (118 KB)",
+   "meetings": 100,
    "dropped": {
     "no_day_or_time": 1
    }
@@ -2311,7 +2315,7 @@
   "district22aa.org": {
    "name": "District22AAAnsweringService",
    "homepage": "https://www.district22aa.org/",
-   "status": "http_503 (stale kept)",
+   "status": "fetched (25 KB)",
    "meetings": 26
   },
   "district48aa.org": {
@@ -2344,8 +2348,8 @@
   "edmontonaa.org": {
    "name": "A.A.CentralOffice",
    "homepage": "https://edmontonaa.org/",
-   "status": "fetched (442 KB)",
-   "meetings": 322
+   "status": "fetched (443 KB)",
+   "meetings": 323
   },
   "etiaa.org": {
    "name": "EastTennesseeIntergroup",
@@ -2641,7 +2645,7 @@
   "nyintergroup.org": {
    "name": "Inter-GroupAssociationofA.A.of NewYork,Inc.",
    "homepage": "https://www.nyintergroup.org/",
-   "status": "http_522 (stale kept)",
+   "status": "fetched (3764 KB)",
    "meetings": 2877
   },
   "oahucentraloffice.com": {
@@ -2686,7 +2690,7 @@
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (637 KB)",
+   "status": "fetched (528 KB)",
    "meetings": 385
   },
   "pdxaa.com": {
@@ -2884,7 +2888,7 @@
   "vancouveraa.ca": {
    "name": "GreaterVancouverIntergroup Society",
    "homepage": "https://vancouveraa.ca/",
-   "status": "not modified",
+   "status": "fetched (734 KB)",
    "meetings": 575
   },
   "victorvalleyaa.org": {
@@ -2975,7 +2979,7 @@
    "name": "DallasIntergroupAssociation",
    "homepage": "https://aadallas.org",
    "status": "local",
-   "meetings": 1547
+   "meetings": 1546
   },
   "aadaytona.org": {
    "name": "VolusiaCountyIntergroup",
@@ -3107,7 +3111,7 @@
    "name": "NorthernNevadaIntergroup",
    "homepage": "https://nnig.org",
    "status": "local",
-   "meetings": 784
+   "meetings": 785
   },
   "puebloaa.org": {
    "name": "CentralServiceOfficeOfSouth Colorado",
@@ -3125,7 +3129,7 @@
    "name": "CentralOfficeOfSaltLakeCity Inc.",
    "homepage": "https://saltlakeaa.org",
    "status": "local",
-   "meetings": 418
+   "meetings": 410
   },
   "santabarbaraaa.com": {
    "name": "SantaBarbaraCentralOffice",
