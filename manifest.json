@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated": "2026-07-23T21:08:46",
+ "generated": "2026-07-23T21:18:29",
  "meetings": 140156,
  "shards": [
   {
@@ -297,9 +297,9 @@
    "country": "US",
    "state": "CA",
    "meetings": 20021,
-   "bytes": 8911478,
-   "sha256": "f96b51f3b513d80957588593e2ba1451071d45956e65b8464dea9541268381e1",
-   "with_coords": 15070,
+   "bytes": 9047528,
+   "sha256": "910aca511b607038724fdd7aa0d251e13071edf652951a0a614a9e0ad99c9ac1",
+   "with_coords": 18107,
    "feeds": [
     "aa-san-mateo.org",
     "aa-tulareco.org",
@@ -1425,49 +1425,49 @@
   "aa-acadiana.org": {
    "name": "AcadianaAreaCentralOffice",
    "homepage": "https://aa-acadiana.org/",
-   "status": "fetched (188 KB)",
+   "status": "cached",
    "meetings": 175
   },
   "aa-cedarrapids.org": {
    "name": "AnswerPlusAnsweringService",
    "homepage": "https://www.aa-cedarrapids.org",
-   "status": "fetched (110 KB)",
+   "status": "cached",
    "meetings": 108
   },
   "aa-dc.org": {
    "name": "*WashingtonAreaIntergroup Association",
    "homepage": "https://aa-dc.org/",
-   "status": "fetched (1134 KB)",
+   "status": "cached",
    "meetings": 1036
   },
   "aa-eci.org": {
    "name": "Dist12AnsweringService",
    "homepage": "https://aa-eci.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 78
   },
   "aa-iowa.org": {
    "name": "Iowa Area 24",
    "homepage": "https://www.aa-iowa.org/",
-   "status": "fetched (1355 KB)",
+   "status": "cached",
    "meetings": 1330
   },
   "aa-mississippi.org": {
    "name": "Mississippi Area 37",
    "homepage": "https://aa-mississippi.org",
-   "status": "fetched (961 KB)",
+   "status": "cached",
    "meetings": 808
   },
   "aa-oregon.org": {
    "name": "Oregon Area 58",
    "homepage": "https://www.aa-oregon.org/",
-   "status": "fetched (318 KB)",
+   "status": "cached",
    "meetings": 277
   },
   "aa-palmbeachcounty.org": {
    "name": "PalmBeachCountyIntergroup Association",
    "homepage": "https://aapalmbeachcounty.org/",
-   "status": "fetched (477 KB)",
+   "status": "cached",
    "meetings": 499,
    "dropped": {
     "no_day_or_time": 1
@@ -1476,61 +1476,61 @@
   "aa-semi.org": {
    "name": "SanilacCountyHotline",
    "homepage": "https://aa-semi.org",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 1502
   },
   "aa-tulareco.org": {
    "name": "TulareCountyCentralOffice",
    "homepage": "https://aa-tulareco.org/",
-   "status": "fetched (215 KB)",
+   "status": "cached",
    "meetings": 195
   },
   "aa52centraloffice.org": {
    "name": "AnonymousCentralOffice",
    "homepage": "https://www.aa52centraloffice.org/wp/",
-   "status": "fetched (176 KB)",
+   "status": "cached",
    "meetings": 173
   },
   "aaalbanyny.org": {
    "name": "CapitalDistrictCentralOffice",
    "homepage": "https://aaalbanyny.org/",
-   "status": "fetched (1383 KB)",
+   "status": "cached",
    "meetings": 1190
   },
   "aabutte-glenn.org": {
    "name": "NorthValleyCentralOffice",
    "homepage": "https://aabutte-glenn.org/",
-   "status": "fetched (175 KB)",
+   "status": "cached",
    "meetings": 157
   },
   "aacentralohio.org": {
    "name": "*CentralOhioGroupFellowship Intergroup",
    "homepage": "https://aacentralohio.org/",
-   "status": "fetched (911 KB)",
+   "status": "cached",
    "meetings": 845
   },
   "aacincinnati.org": {
    "name": "CincinnatiIntergroupOffice",
    "homepage": "https://aacincinnati.org/",
-   "status": "fetched (720 KB)",
+   "status": "cached",
    "meetings": 675
   },
   "aacomm.org": {
    "name": "CentralOfficeofMid-Missouri (C.O.M.M.)",
    "homepage": "https://aacomm.org/",
-   "status": "fetched (160 KB)",
+   "status": "cached",
    "meetings": 197
   },
   "aadavis.org": {
    "name": "CNIA District 17 (Davis/Woodland)",
    "homepage": "https://aadavis.org",
-   "status": "fetched (169 KB)",
+   "status": "cached",
    "meetings": 156
   },
   "aadaytononline.org": {
    "name": "*CentralOfficeOfDayton,Inc.",
    "homepage": "https://aadaytononline.org/",
-   "status": "fetched (422 KB)",
+   "status": "cached",
    "meetings": 404,
    "dropped": {
     "no_day_or_time": 2
@@ -1539,55 +1539,55 @@
   "aadesmoines.org": {
    "name": "CentralOffice/Intergroup",
    "homepage": "https://aadesmoines.org/",
-   "status": "fetched (368 KB)",
+   "status": "cached",
    "meetings": 258
   },
   "aadistrict51.org": {
    "name": "Dist.51AnsweringService",
    "homepage": "https://aadistrict51.org/",
-   "status": "fetched (212 KB)",
+   "status": "cached",
    "meetings": 197
   },
   "aaflagler.org": {
    "name": "FlaglerCountyIntergroup",
    "homepage": "https://aaflagler.org/",
-   "status": "fetched (69 KB)",
+   "status": "cached",
    "meetings": 60
   },
   "aafloridakeys.org": {
    "name": "KeyWestIntergroup",
    "homepage": "https://aafloridakeys.org/",
-   "status": "fetched (95 KB)",
+   "status": "cached",
    "meetings": 94
   },
   "aafsig.org": {
    "name": "Ft.SmithAreaIntergroup/Central Office",
    "homepage": "https://aafsig.org/",
-   "status": "fetched (75 KB)",
+   "status": "cached",
    "meetings": 79
   },
   "aaftwayne.org": {
    "name": "FortWayneAreaIntergroup",
    "homepage": "https://www.aafortwayne.org/",
-   "status": "fetched (183 KB)",
+   "status": "cached",
    "meetings": 200
   },
   "aahalton.org": {
    "name": "HaltonServiceOffice",
    "homepage": "https://aahalton.org/",
-   "status": "fetched (80 KB)",
+   "status": "cached",
    "meetings": 62
   },
   "aahamilton.org": {
    "name": "A.A.CentralOffice",
    "homepage": "https://www.aahamilton.org",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 88
   },
   "aaharrisburg.org": {
    "name": "HarrisburgIntergroup",
    "homepage": "https://www.aaharrisburg.org",
-   "status": "fetched (192 KB)",
+   "status": "cached",
    "meetings": 185,
    "dropped": {
     "no_day_or_time": 1
@@ -1596,31 +1596,31 @@
   "aahernando.org": {
    "name": "HernandoCountyIntergroup",
    "homepage": "https://aahernando.org/",
-   "status": "fetched (88 KB)",
+   "status": "cached",
    "meetings": 92
   },
   "aahouston.org": {
    "name": "IntergroupAssociationInc.",
    "homepage": "https://aahouston.org/",
-   "status": "fetched (2043 KB)",
+   "status": "cached",
    "meetings": 1937
   },
   "aahumboldtdelnorte.org": {
    "name": "Humboldt Del Norte Intergroup",
    "homepage": "https://aahumboldtdelnorte.org",
-   "status": "fetched (184 KB)",
+   "status": "cached",
    "meetings": 177
   },
   "aahuntsvilleal.com": {
    "name": "AA Area 1 District 20 (Huntsville)",
    "homepage": "https://aahuntsvilleal.com",
-   "status": "fetched (190 KB)",
+   "status": "cached",
    "meetings": 185
   },
   "aaigo.net": {
    "name": "AshtabulaAreaIntergroup",
    "homepage": "https://aaigo.net/",
-   "status": "fetched (54 KB)",
+   "status": "cached",
    "meetings": 62,
    "dropped": {
     "no_day_or_time": 1
@@ -1629,55 +1629,55 @@
   "aainlandempire.org": {
    "name": "Inland Empire Central Office",
    "homepage": "https://aainlandempire.org",
-   "status": "fetched (955 KB)",
+   "status": "cached",
    "meetings": 1013
   },
   "aainpalmbeach.org": {
    "name": "So.PalmBeachCounty IntergroupInc.",
    "homepage": "https://www.aainpalmbeach.org",
-   "status": "fetched (350 KB)",
+   "status": "cached",
    "meetings": 337
   },
   "aajci.org": {
    "name": "JeffersonCountyIntergroup",
    "homepage": "https://aajci.org/jefferson-county-intergroup/",
-   "status": "fetched (42 KB)",
+   "status": "cached",
    "meetings": 49
   },
   "aakenaipeninsula.org": {
    "name": "KenaiPeninsulaIntergroup",
    "homepage": "https://aakenaipeninsula.org/",
-   "status": "fetched (68 KB)",
+   "status": "cached",
    "meetings": 78
   },
   "aalansingmi.org": {
    "name": "LansingCentralOffice",
    "homepage": "https://aalansingmi.org/",
-   "status": "fetched (295 KB)",
+   "status": "cached",
    "meetings": 326
   },
   "aalv.org": {
    "name": "ABEIntergroup",
    "homepage": "https://www.aalv.org",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 213
   },
   "aamadisonwi.org": {
    "name": "MadisonAreaIntergroupCentral Office",
    "homepage": "https://aamadisonwi.org/",
-   "status": "fetched (631 KB)",
+   "status": "cached",
    "meetings": 515
   },
   "aamaui.org": {
    "name": "MauiCentralOffice",
    "homepage": "https://aamaui.org/",
-   "status": "fetched (168 KB)",
+   "status": "cached",
    "meetings": 151
   },
   "aamesaaz.org": {
    "name": "EastValleyIntergroupInc.",
    "homepage": "https://aamesaaz.org/",
-   "status": "fetched (616 KB)",
+   "status": "cached",
    "meetings": 639,
    "dropped": {
     "no_day_or_time": 2
@@ -1686,13 +1686,13 @@
   "aaminneapolis.org": {
    "name": "GreaterMinneapolisIntergroup",
    "homepage": "https://aaminneapolis.org/",
-   "status": "fetched (918 KB)",
+   "status": "cached",
    "meetings": 974
   },
   "aaminnesota.org": {
    "name": "AA Minnesota (Areas 35/36)",
    "homepage": "https://aaminnesota.org",
-   "status": "fetched (2172 KB)",
+   "status": "cached",
    "meetings": 1945,
    "dropped": {
     "no_day_or_time": 1
@@ -1701,13 +1701,13 @@
   "aamonterey.org": {
    "name": "MontereyBayAreaIntergroup",
    "homepage": "https://www.aamonterey.org",
-   "status": "fetched (194 KB)",
+   "status": "cached",
    "meetings": 153
   },
   "aanaples.org": {
    "name": "NaplesAreaIntergroup",
    "homepage": "https://aanaples.org/",
-   "status": "fetched (238 KB)",
+   "status": "cached",
    "meetings": 332,
    "dropped": {
     "no_day_or_time": 1
@@ -1716,31 +1716,31 @@
   "aanashville.org": {
    "name": "MiddleTennesseeCentralOffice",
    "homepage": "https://aanashville.org/",
-   "status": "fetched (868 KB)",
+   "status": "cached",
    "meetings": 1024
   },
   "aanc33.org": {
    "name": "Dist.33AnsweringService- Alamance,Caswell,Chatham, OrangeCounties",
    "homepage": "https://aanc33.org/",
-   "status": "fetched (185 KB)",
+   "status": "cached",
    "meetings": 130
   },
   "aaneok.org": {
    "name": "NortheastCentralServiceOffice",
    "homepage": "https://aaneok.org/",
-   "status": "fetched (502 KB)",
+   "status": "cached",
    "meetings": 532
   },
   "aanorcal.org": {
    "name": "No.CaliforniaIntergroup",
    "homepage": "https://aanorcal.org/",
-   "status": "fetched (182 KB)",
+   "status": "cached",
    "meetings": 181
   },
   "aanorthcarolina.org": {
    "name": "North Carolina Area 51",
    "homepage": "https://aanorthcarolina.org",
-   "status": "fetched (3720 KB)",
+   "status": "cached",
    "meetings": 3081,
    "dropped": {
     "no_day_or_time": 3
@@ -1749,25 +1749,25 @@
   "aaocalamarion.org": {
    "name": "Intergroup17",
    "homepage": "https://www.aaocalamarion.org",
-   "status": "fetched (163 KB)",
+   "status": "cached",
    "meetings": 172
   },
   "aaoklahoma.org": {
    "name": "aaoklahoma.org",
    "homepage": "https://aaoklahoma.org/",
-   "status": "fetched (1872 KB)",
+   "status": "cached",
    "meetings": 1528
   },
   "aapensacola.org": {
    "name": "Tri-DistrictIntergroup,Inc.",
    "homepage": "https://aapensacola.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 184
   },
   "aaphoenix.org": {
    "name": "SaltRiverIntergroup,Inc.",
    "homepage": "https://aaphoenix.org/",
-   "status": "fetched (1851 KB)",
+   "status": "cached",
    "meetings": 1878,
    "dropped": {
     "no_day_or_time": 2
@@ -1776,31 +1776,31 @@
   "aapinellas.org": {
    "name": "PinellasCo.IntergroupInc.",
    "homepage": "https://aapinellas.org/",
-   "status": "fetched (829 KB)",
+   "status": "cached",
    "meetings": 721
   },
   "aaquadcities.org": {
    "name": "IIIowaIntergroup",
    "homepage": "http://www.aaquadcities.org",
-   "status": "fetched (221 KB)",
+   "status": "cached",
    "meetings": 216
   },
   "aaregina.com": {
    "name": "ReginaAlcoholicsAnonymous Office",
    "homepage": "https://aaregina.org/",
-   "status": "fetched (85 KB)",
+   "status": "cached",
    "meetings": 83
   },
   "aarichmond.org": {
    "name": "RichmondIntergroupInc.",
    "homepage": "https://aarichmond.org/",
-   "status": "fetched (385 KB)",
+   "status": "cached",
    "meetings": 440
   },
   "aaroanoke.org": {
    "name": "RoanokeIntergroup",
    "homepage": "https://aaroanoke.org/",
-   "status": "fetched (88 KB)",
+   "status": "cached",
    "meetings": 87,
    "dropped": {
     "no_day_or_time": 1
@@ -1809,49 +1809,49 @@
   "aasalinas.org": {
    "name": "SalinasValleyAreaIntergroup",
    "homepage": "https://aasalinas.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 195
   },
   "aasanantonio.org": {
    "name": "CentralServiceOffice",
    "homepage": "https://aasanantonio.org/",
-   "status": "fetched (1121 KB)",
+   "status": "cached",
    "meetings": 1054
   },
   "aasandiego.org": {
    "name": "SanDiegoCentralOffice",
    "homepage": "https://aasandiego.org/",
-   "status": "fetched (1291 KB)",
+   "status": "cached",
    "meetings": 1281
   },
   "aasanjose.org": {
    "name": "SantaClaraCountyIntergroup C.O.",
    "homepage": "https://aasanjose.org/",
-   "status": "fetched (474 KB)",
+   "status": "cached",
    "meetings": 732
   },
   "aasantacruz.org": {
    "name": "SantaCruzCountyIntergroup Inc.",
    "homepage": "https://aasantacruz.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 337
   },
   "aasaskatoon.org": {
    "name": "Saskatoon&DistrictCentral Office",
    "homepage": "https://aasaskatoon.org/",
-   "status": "fetched (75 KB)",
+   "status": "cached",
    "meetings": 77
   },
   "aascv.org": {
    "name": "SCVCentralOfficeOfA.A.",
    "homepage": "https://aascv.org/",
-   "status": "fetched (191 KB)",
+   "status": "cached",
    "meetings": 158
   },
   "aasepia.org": {
    "name": "SouthEasternPennaIntergroup Association",
    "homepage": "https://aasepia.org/",
-   "status": "fetched (2080 KB)",
+   "status": "cached",
    "meetings": 1888,
    "dropped": {
     "no_day_or_time": 1
@@ -1860,97 +1860,97 @@
   "aasfmarin.org": {
    "name": "San Francisco and Marin Intergroup",
    "homepage": "https://aasfmarin.org",
-   "status": "fetched (1720 KB)",
+   "status": "cached",
    "meetings": 888
   },
   "aasj.org": {
    "name": "SouthJerseyIntergroupAssc.",
    "homepage": "https://aasj.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 400
   },
   "aasolanosouth.org": {
    "name": "So.SolanoCountyCentralOffice",
    "homepage": "https://aasolanosouth.org/",
-   "status": "fetched (108 KB)",
+   "status": "cached",
    "meetings": 102
   },
   "aaspokane.org": {
    "name": "SpokaneCentralOffice",
    "homepage": "https://aaspokane.org/",
-   "status": "fetched (242 KB)",
+   "status": "cached",
    "meetings": 239
   },
   "aaspringfield.org": {
    "name": "A.A.District19Hotline",
    "homepage": "https://aaspringfield.org/",
-   "status": "fetched (120 KB)",
+   "status": "cached",
    "meetings": 128
   },
   "aasrq.org": {
    "name": "CentralOfficeOfSara-ManaInc",
    "homepage": "https://www.aasrq.org",
-   "status": "fetched (396 KB)",
+   "status": "cached",
    "meetings": 366
   },
   "aastl.org": {
    "name": "CentralServicesOfA.A.(St. LouisCentralServiceOffice)",
    "homepage": "https://aastl.org/",
-   "status": "fetched (875 KB)",
+   "status": "cached",
    "meetings": 980
   },
   "aastlucieintergroup.com": {
    "name": "St.LucieCountyIntergroup Association",
    "homepage": "https://aastlucieintergroup.com/",
-   "status": "fetched (159 KB)",
+   "status": "cached",
    "meetings": 153
   },
   "aasyracuse.org": {
    "name": "SyracuseServiceCenter Intergroup",
    "homepage": "https://www.aasyracuse.org",
-   "status": "fetched (457 KB)",
+   "status": "cached",
    "meetings": 400
   },
   "aatopeka.org": {
    "name": "TopekaAreaAnsweringService",
    "homepage": "https://www.aatopeka.org",
-   "status": "fetched (110 KB)",
+   "status": "cached",
    "meetings": 97
   },
   "aatoronto.org": {
    "name": "TorontoIntergroup",
    "homepage": "https://www.aatoronto.org",
-   "status": "fetched (626 KB)",
+   "status": "cached",
    "meetings": 484
   },
   "aatucson.org": {
    "name": "*TucsonAreaIntergroupInc.",
    "homepage": "https://aatucson.org/",
-   "status": "fetched (522 KB)",
+   "status": "cached",
    "meetings": 519
   },
   "aaukiah.org": {
    "name": "MendocinoInlandIntergroup",
    "homepage": "https://aaukiah.org/",
-   "status": "fetched (54 KB)",
+   "status": "cached",
    "meetings": 58
   },
   "aaventuracounty.org": {
    "name": "VenturaCountyCentralService Office",
    "homepage": "https://aaventuracounty.org/",
-   "status": "fetched (507 KB)",
+   "status": "cached",
    "meetings": 524
   },
   "aavictoria.ca": {
    "name": "A.A.CentralOffice",
    "homepage": "https://aavictoria.ca/",
-   "status": "fetched (174 KB)",
+   "status": "cached",
    "meetings": 190
   },
   "aavirginia.org": {
    "name": "Virginia Area 71",
    "homepage": "https://aavirginia.org",
-   "status": "fetched (3244 KB)",
+   "status": "cached",
    "meetings": 2682,
    "dropped": {
     "no_day_or_time": 1
@@ -1959,31 +1959,31 @@
   "aavt.org": {
    "name": "Vermont Area 70",
    "homepage": "https://aavt.org",
-   "status": "fetched (549 KB)",
+   "status": "cached",
    "meetings": 526
   },
   "aawesttn.org": {
    "name": "Jackson/WestTennessee Intergroup",
    "homepage": "https://aawesttn.org/",
-   "status": "fetched (113 KB)",
+   "status": "cached",
    "meetings": 119
   },
   "aawilliamsburg.org": {
    "name": "WilliamsburgAreaIntergroup",
    "homepage": "https://aawilliamsburg.org/",
-   "status": "fetched (39 KB)",
+   "status": "cached",
    "meetings": 65
   },
   "aayaig.org": {
    "name": "YoungstownAreaA.A.Intergroup",
    "homepage": "https://aayaig.org/",
-   "status": "fetched (176 KB)",
+   "status": "cached",
    "meetings": 219
   },
   "albuquerqueaa.org": {
    "name": "CentralOfficeAlbuquerqueInc.",
    "homepage": "https://albuquerqueaa.org/",
-   "status": "fetched (479 KB)",
+   "status": "cached",
    "meetings": 436,
    "dropped": {
     "no_day_or_time": 2
@@ -1992,13 +1992,13 @@
   "amesaa.org": {
    "name": "AmesIntergroup",
    "homepage": "https://www.amesaa.org",
-   "status": "fetched (100 KB)",
+   "status": "cached",
    "meetings": 81
   },
   "area03.com": {
    "name": "Arizona Area 03 Meeting List",
    "homepage": "https://area03.com",
-   "status": "fetched (3944 KB)",
+   "status": "cached",
    "meetings": 3353,
    "dropped": {
     "no_day_or_time": 2
@@ -2007,19 +2007,19 @@
   "area22indiana.org": {
    "name": "Northern Indiana Area 22",
    "homepage": "https://area22indiana.org",
-   "status": "fetched (974 KB)",
+   "status": "cached",
    "meetings": 913
   },
   "area23aa.org": {
    "name": "Southern Indiana Area 23",
    "homepage": "https://area23aa.org",
-   "status": "fetched (115 KB)",
+   "status": "cached",
    "meetings": 107
   },
   "area34aa.org": {
    "name": "West Michigan Area 34",
    "homepage": "https://area34aa.org",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 1559,
    "dropped": {
     "no_day_or_time": 1
@@ -2028,31 +2028,31 @@
   "area34district12.org": {
    "name": "Dist.12OfArea34Answering Service",
    "homepage": "https://area34district12.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 40
   },
   "area41.org": {
    "name": "Nebraska Area 41",
    "homepage": "https://www.area41.org/",
-   "status": "fetched (1252 KB)",
+   "status": "cached",
    "meetings": 1189
   },
   "area53aa.org": {
    "name": "Central Ohio Area 53",
    "homepage": "https://area53aa.org",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 842
   },
   "area55aa.org": {
    "name": "Ohio Area 55",
    "homepage": "https://area55aa.org",
-   "status": "fetched (460 KB)",
+   "status": "cached",
    "meetings": 445
   },
   "area62.org": {
    "name": "South Carolina Area 62",
    "homepage": "https://area62.org",
-   "status": "fetched (524 KB)",
+   "status": "cached",
    "meetings": 1337,
    "dropped": {
     "duplicate_slug": 23
@@ -2061,13 +2061,13 @@
   "area63aa.org": {
    "name": "South Dakota Area 63",
    "homepage": "https://area63aa.org",
-   "status": "fetched (469 KB)",
+   "status": "cached",
    "meetings": 414
   },
   "area72aa.org": {
    "name": "Western Washington Area 72",
    "homepage": "https://area72aa.org",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 4039,
    "dropped": {
     "no_day_or_time": 2
@@ -2076,31 +2076,31 @@
   "area74.org": {
    "name": "Northern Wisconsin Area 74",
    "homepage": "https://area74.org",
-   "status": "fetched (158 KB)",
+   "status": "cached",
    "meetings": 177
   },
   "area78.org": {
    "name": "RedDeerArea78-24Hour AnsweringService",
    "homepage": "https://area78aa.org/",
-   "status": "fetched (1504 KB)",
+   "status": "cached",
    "meetings": 1095
   },
   "area82aa.org": {
    "name": "area82aa.org",
    "homepage": "https://area82aa.org/meetings/",
-   "status": "fetched (206 KB)",
+   "status": "cached",
    "meetings": 201
   },
   "area92aa.org": {
    "name": "Washington East Area 92",
    "homepage": "https://area92aa.org",
-   "status": "fetched (1172 KB)",
+   "status": "cached",
    "meetings": 1132
   },
   "arkansascentraloffice.org": {
    "name": "ArkansasCentralServiceOffice",
    "homepage": "https://arkansascentraloffice.org/",
-   "status": "fetched (1070 KB)",
+   "status": "cached",
    "meetings": 943,
    "dropped": {
     "no_day_or_time": 3
@@ -2109,43 +2109,43 @@
   "atlantaaa.org": {
    "name": "Athens CentralOffice",
    "homepage": "https://atlantaaa.org/",
-   "status": "fetched (1555 KB)",
+   "status": "cached",
    "meetings": 1427
   },
   "baltimoreaa.org": {
    "name": "BaltimoreIntergroupCouncilOf A.A.",
    "homepage": "https://baltimoreaa.org/",
-   "status": "fetched (782 KB)",
+   "status": "cached",
    "meetings": 744
   },
   "barrieaa.com": {
    "name": "BarrieIntergroup",
    "homepage": "https://barrieaa.com/",
-   "status": "fetched (62 KB)",
+   "status": "cached",
    "meetings": 57
   },
   "birminghamaa.org": {
    "name": "BirminghamIntergroup",
    "homepage": "https://birminghamaa.org/wp/",
-   "status": "fetched (277 KB)",
+   "status": "cached",
    "meetings": 271
   },
   "bluegrassintergroup.org": {
    "name": "BluegrassIntergroup",
    "homepage": "https://www.bluegrassintergroup.org",
-   "status": "fetched (505 KB)",
+   "status": "cached",
    "meetings": 416
   },
   "booneaa.org": {
    "name": "BooneIntergroup",
    "homepage": "https://booneaa.org/",
-   "status": "fetched (75 KB)",
+   "status": "cached",
    "meetings": 75
   },
   "buffaloaany.org": {
    "name": "BuffaloCentralOffice",
    "homepage": "https://buffaloaany.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 471,
    "dropped": {
     "no_day_or_time": 1
@@ -2154,25 +2154,25 @@
   "calgaryaa.org": {
    "name": "CentralServiceOfficeOfA.A.",
    "homepage": "https://calgaryaa.org/",
-   "status": "fetched (531 KB)",
+   "status": "cached",
    "meetings": 446
   },
   "capeatlanticaa.org": {
    "name": "CapeAtlanticIntergroup",
    "homepage": "https://capeatlanticaa.org/",
-   "status": "fetched (448 KB)",
+   "status": "cached",
    "meetings": 401
   },
   "capecodaa.net": {
    "name": "CapeCodIntergroup",
    "homepage": "https://capecodaa.net/",
-   "status": "fetched (386 KB)",
+   "status": "cached",
    "meetings": 368
   },
   "cbiaa.org": {
    "name": "CoastalBendIntergroup Association",
    "homepage": "https://www.cbiaa.org",
-   "status": "fetched (284 KB)",
+   "status": "cached",
    "meetings": 267,
    "dropped": {
     "no_day_or_time": 1
@@ -2181,73 +2181,73 @@
   "centralalaa.org": {
    "name": "MontgomeryAreaIntergroup",
    "homepage": "https://centralalaa.org/",
-   "status": "fetched (126 KB)",
+   "status": "cached",
    "meetings": 100
   },
   "centraljerseyintergroup.org": {
    "name": "CentralJerseyIntergroup",
    "homepage": "https://cjiaa.org/",
-   "status": "fetched (229 KB)",
+   "status": "cached",
    "meetings": 241
   },
   "centralmountain.org": {
    "name": "CentralMountainIntergroup",
    "homepage": "https://centralmountain.org/",
-   "status": "fetched (84 KB)",
+   "status": "cached",
    "meetings": 87
   },
   "centralwest2district3aa.org": {
    "name": "AACentralWestDistrict3",
    "homepage": "https://centralwest2district3aa.org/",
-   "status": "fetched (42 KB)",
+   "status": "cached",
    "meetings": 40
   },
   "centralwest4district5aa.org": {
    "name": "DistrictAnsweringService",
    "homepage": "https://centralwest4district5aa.org",
-   "status": "fetched (42 KB)",
+   "status": "cached",
    "meetings": 40
   },
   "cflintergroup.org": {
    "name": "CentralFloridaIntergroup Service(OrlandoArea)",
    "homepage": "https://cflintergroup.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 416
   },
   "chattanooga-aa.com": {
    "name": "ChattanoogaAreaCentralOffice",
    "homepage": "https://chattanooga-aa.com/",
-   "status": "fetched (324 KB)",
+   "status": "cached",
    "meetings": 284
   },
   "cmia32.org": {
    "name": "District28UnityCouncil AnsweringService",
    "homepage": "https://www.cmia32.org",
-   "status": "fetched (597 KB)",
+   "status": "cached",
    "meetings": 950
   },
   "cnia30.org": {
    "name": "CNIA District 30",
    "homepage": "https://cnia30.org",
-   "status": "fetched (56 KB)",
+   "status": "cached",
    "meetings": 67
   },
   "coigaa.org": {
    "name": "CentralOregonIntergroup",
    "homepage": "https://coigaa.org/",
-   "status": "fetched (174 KB)",
+   "status": "cached",
    "meetings": 171
   },
   "coloradospringsaa.org": {
    "name": "ColoradoSpringsAreaService Office",
    "homepage": "https://www.coloradospringsaa.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 295
   },
   "csoaamaine.org": {
    "name": "CentralServiceOffice",
    "homepage": "https://csoaamaine.org",
-   "status": "fetched (879 KB)",
+   "status": "cached",
    "meetings": 807,
    "dropped": {
     "no_day_or_time": 6
@@ -2256,7 +2256,7 @@
   "ct-aa.org": {
    "name": "Connecticut Area 11",
    "homepage": "https://ct-aa.org",
-   "status": "fetched (1902 KB)",
+   "status": "cached",
    "meetings": 1904,
    "dropped": {
     "no_day_or_time": 1
@@ -2265,13 +2265,13 @@
   "cviaa.org": {
    "name": "CentralValleyIntergroup",
    "homepage": "https://aa.cviaa.org/",
-   "status": "fetched (354 KB)",
+   "status": "cached",
    "meetings": 366
   },
   "d12aa.org": {
    "name": "Dist.12Office24Hr.Answering Service",
    "homepage": "https://district12.eamo.org/",
-   "status": "fetched (118 KB)",
+   "status": "cached",
    "meetings": 100,
    "dropped": {
     "no_day_or_time": 1
@@ -2280,43 +2280,43 @@
   "d19area86.ca": {
    "name": "District19TelephoneAnswering Service",
    "homepage": "https://www.d19area86.ca",
-   "status": "fetched (96 KB)",
+   "status": "cached",
    "meetings": 63
   },
   "d35pa-aa.org": {
    "name": "District35/Area59-So.Central P.A.AnsweringService",
    "homepage": "https://www.d35pa-aa.org",
-   "status": "fetched (106 KB)",
+   "status": "cached",
    "meetings": 98
   },
   "daccaa.org": {
    "name": "DenverAreaCentralOffice",
    "homepage": "https://daccaa.org/",
-   "status": "fetched (1134 KB)",
+   "status": "cached",
    "meetings": 1122
   },
   "district22aa.org": {
    "name": "District22AAAnsweringService",
    "homepage": "https://www.district22aa.org/",
-   "status": "fetched (23 KB)",
+   "status": "cached",
    "meetings": 24
   },
   "district48aa.org": {
    "name": "WilliamsportAnsweringService",
    "homepage": "https://district48aa.org/",
-   "status": "fetched (49 KB)",
+   "status": "cached",
    "meetings": 50
   },
   "downeastintergroup.org": {
    "name": "DownEastIntergroup",
    "homepage": "https://downeastintergroup.org/",
-   "status": "fetched (188 KB)",
+   "status": "cached",
    "meetings": 189
   },
   "eamo.org": {
    "name": "Eastern Missouri Area 38",
    "homepage": "https://eamo.org",
-   "status": "fetched (1406 KB)",
+   "status": "cached",
    "meetings": 1277,
    "dropped": {
     "no_day_or_time": 1
@@ -2325,13 +2325,13 @@
   "eastbayaa.org": {
    "name": "EastbayIntergroupCentralOffice",
    "homepage": "https://eastbayaa.org/",
-   "status": "fetched (1197 KB)",
+   "status": "cached",
    "meetings": 900
   },
   "edmontonaa.org": {
    "name": "A.A.CentralOffice",
    "homepage": "https://edmontonaa.org/",
-   "status": "fetched (443 KB)",
+   "status": "cached",
    "meetings": 321,
    "dropped": {
     "no_day_or_time": 2
@@ -2340,19 +2340,19 @@
   "etiaa.org": {
    "name": "EastTennesseeIntergroup",
    "homepage": "https://www.etiaa.org",
-   "status": "fetched (589 KB)",
+   "status": "cached",
    "meetings": 473
   },
   "flagstaffaa.org": {
    "name": "FlagstaffIntergroupCentralOffice",
    "homepage": "https://flagstaffaa.org/",
-   "status": "fetched (117 KB)",
+   "status": "cached",
    "meetings": 119
   },
   "fortworthaa.org": {
    "name": "CentralOfficeOfFt.Worth",
    "homepage": "https://fortworthaa.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 1069,
    "dropped": {
     "no_day_or_time": 1
@@ -2361,19 +2361,19 @@
   "fresnoaa.org": {
    "name": "CentralServiceOfficeOfFresno",
    "homepage": "https://www.fresnoaa.org",
-   "status": "fetched (806 KB)",
+   "status": "cached",
    "meetings": 750
   },
   "geneseecountyaa.org": {
    "name": "FlintAreaUnityCouncil24",
    "homepage": "https://www.geneseecountyaa.org/",
-   "status": "fetched (206 KB)",
+   "status": "cached",
    "meetings": 187
   },
   "grandrapidsaa.org": {
    "name": "KentCountyCentralOffice",
    "homepage": "https://grandrapidsaa.org/",
-   "status": "fetched (648 KB)",
+   "status": "cached",
    "meetings": 686,
    "dropped": {
     "no_day_or_time": 1
@@ -2382,25 +2382,25 @@
   "grantspassaa.com": {
    "name": "CentralOfficeOfSouthern Oregon",
    "homepage": "https://www.grantspassaa.com",
-   "status": "fetched (76 KB)",
+   "status": "cached",
    "meetings": 71
   },
   "greenbayaa.org": {
    "name": "GreenBayAreaCentralOffice, Inc.",
    "homepage": "https://www.greenbayaa.org",
-   "status": "fetched (90 KB)",
+   "status": "cached",
    "meetings": 92
   },
   "gulfcoastaa.org": {
    "name": "BaldwinCountyAnswering Service",
    "homepage": "https://gulfcoastaa.org/",
-   "status": "fetched (49 KB)",
+   "status": "cached",
    "meetings": 52
   },
   "hacoaa.org": {
    "name": "HarborAreaCentralOffice",
    "homepage": "https://hacoaa.org/",
-   "status": "fetched (631 KB)",
+   "status": "cached",
    "meetings": 677,
    "dropped": {
     "no_day_or_time": 2
@@ -2409,19 +2409,19 @@
   "hagerstownaa.org": {
    "name": "HagerstownAreaIntergroup",
    "homepage": "https://hagerstownaa.org/",
-   "status": "fetched (62 KB)",
+   "status": "cached",
    "meetings": 62
   },
   "heartlandintergroup.org": {
    "name": "HeartlandIntergroupA.A.Inc",
    "homepage": "https://www.heartlandintergroup.org/",
-   "status": "fetched (254 KB)",
+   "status": "cached",
    "meetings": 210
   },
   "idahoarea18aa.org": {
    "name": "Idaho Area 18",
    "homepage": "https://idahoarea18aa.org",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 668,
    "dropped": {
     "no_day_or_time": 1
@@ -2430,181 +2430,181 @@
   "indyaa.org": {
    "name": "IndianapolisIntergroupInc.",
    "homepage": "https://indyaa.org/",
-   "status": "fetched (444 KB)",
+   "status": "cached",
    "meetings": 465
   },
   "intergroup5.org": {
    "name": "Intergroup5Inc.",
    "homepage": "https://intergroup5.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 137
   },
   "jccoaa.org": {
    "name": "A.A.JacksonCountyCentral Office",
    "homepage": "https://jccoaa.org/",
-   "status": "fetched (112 KB)",
+   "status": "cached",
    "meetings": 114
   },
   "jeffersonfob.wordpress.com": {
    "name": "JeffersonDistrictIntergroup",
    "homepage": "https://aaheartofva.org/",
-   "status": "fetched (150 KB)",
+   "status": "cached",
    "meetings": 130
   },
   "kc-aa.org": {
    "name": "KansasCityAreaCentralOffice",
    "homepage": "https://kc-aa.org/",
-   "status": "fetched (1698 KB)",
+   "status": "cached",
    "meetings": 1375
   },
   "kerncountyaa.com": {
    "name": "Kern County AA Central Office",
    "homepage": "https://kerncountyaa.com",
-   "status": "fetched (173 KB)",
+   "status": "cached",
    "meetings": 205
   },
   "kingstonaa.org": {
    "name": "Dist36AnsweringService",
    "homepage": "https://www.kingstonaa.org",
-   "status": "fetched (37 KB)",
+   "status": "cached",
    "meetings": 42
   },
   "klciaa.org": {
    "name": "KlamathLakeIntergroup",
    "homepage": "https://klciaa.org/",
-   "status": "fetched (48 KB)",
+   "status": "cached",
    "meetings": 52
   },
   "ks-aa.org": {
    "name": "Kansas Area 25",
    "homepage": "https://ks-aa.org",
-   "status": "fetched (1656 KB)",
+   "status": "cached",
    "meetings": 1430
   },
   "lancasteraa.org": {
    "name": "LancasterA.A.CentralService Office,Inc.",
    "homepage": "https://lancasteraa.org",
-   "status": "fetched (139 KB)",
+   "status": "cached",
    "meetings": 143
   },
   "leecountyaa.org": {
    "name": "LeeCountyAreaIntergroup",
    "homepage": "https://leecountyaa.org/",
-   "status": "URLError (stale kept)",
+   "status": "cached",
    "meetings": 363
   },
   "lincaa.org": {
    "name": "Lincoln Central Service Office",
    "homepage": "https://lincaa.org",
-   "status": "fetched (9 KB)",
+   "status": "cached",
    "meetings": 7
   },
   "livingstonareaintergroup.org": {
    "name": "LivingstonAreaIntergroup",
    "homepage": "https://livingstonareaintergroup.org/",
-   "status": "fetched (64 KB)",
+   "status": "cached",
    "meetings": 48
   },
   "louisvilleaa.org": {
    "name": "GreaterLouisvilleIntergroupInc",
    "homepage": "https://loukyaa.org/",
-   "status": "fetched (649 KB)",
+   "status": "cached",
    "meetings": 547
   },
   "loukyaa.org": {
    "name": "Louisville AA Intergroup",
    "homepage": "https://loukyaa.org",
-   "status": "fetched (649 KB)",
+   "status": "cached",
    "meetings": 547
   },
   "lvcentraloffice.org": {
    "name": "LasVegasIntergroup",
    "homepage": "https://www.lvcentraloffice.org",
-   "status": "fetched (1205 KB)",
+   "status": "cached",
    "meetings": 1172
   },
   "mansfieldaa.org": {
    "name": "MansfieldAreaIntergroup",
    "homepage": "https://mansfieldaa.org/",
-   "status": "fetched (50 KB)",
+   "status": "cached",
    "meetings": 47
   },
   "martincountyaa.org": {
    "name": "IntergroupOfMartinCounty",
    "homepage": "https://martincountyaa.org/",
-   "status": "fetched (169 KB)",
+   "status": "cached",
    "meetings": 154
   },
   "memphis-aa.org": {
    "name": "MemphisAreaIntergroup",
    "homepage": "https://www.memphis-aa.org",
-   "status": "fetched (350 KB)",
+   "status": "cached",
    "meetings": 393
   },
   "mendocinocoastaa.com": {
    "name": "MendocinoCoastIntergroup",
    "homepage": "https://mendocinocoastaa.com/",
-   "status": "fetched (49 KB)",
+   "status": "cached",
    "meetings": 48
   },
   "miamiaa.org": {
    "name": "CentralMiamiIntergroup",
    "homepage": "https://miamiaa.org/",
-   "status": "fetched (12 KB)",
+   "status": "cached",
    "meetings": 9
   },
   "mobileaa.org": {
    "name": "SouthwestAlabamaCentral Office,Inc.",
    "homepage": "https://mobileaa.org/",
-   "status": "fetched (86 KB)",
+   "status": "cached",
    "meetings": 107
   },
   "moorecountyaa.org": {
    "name": "SandhillsIntergroup",
    "homepage": "https://moorecountyaa.org/",
-   "status": "fetched (93 KB)",
+   "status": "cached",
    "meetings": 80
   },
   "nanaimoaa.org": {
    "name": "Mission NanaimoIntergroup",
    "homepage": "https://nanaimoaa.org/",
-   "status": "fetched (149 KB)",
+   "status": "cached",
    "meetings": 128
   },
   "nassauny-aa.org": {
    "name": "NassauIntergroup",
    "homepage": "https://nassauintergroup.org/",
-   "status": "fetched (762 KB)",
+   "status": "cached",
    "meetings": 646
   },
   "ndiaa.org": {
    "name": "NorthernDelawareIntergroup",
    "homepage": "https://ndiaa.org/",
-   "status": "fetched (225 KB)",
+   "status": "cached",
    "meetings": 233
   },
   "neflaa.org": {
    "name": "NortheastFloridaIntergroup",
    "homepage": "https://neflaa.org/",
-   "status": "fetched (705 KB)",
+   "status": "cached",
    "meetings": 711
   },
   "nenyaa.org": {
    "name": "Northeastern New York Area 48",
    "homepage": "https://nenyaa.org",
-   "status": "fetched (1405 KB)",
+   "status": "cached",
    "meetings": 1190
   },
   "nhaa.net": {
    "name": "NewHampshireAreaService Office",
    "homepage": "https://nhaa.net/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 834
   },
   "nm-aa.org": {
    "name": "New Mexico Area 46",
    "homepage": "https://nm-aa.org",
-   "status": "fetched (1374 KB)",
+   "status": "cached",
    "meetings": 1037,
    "dropped": {
     "no_day_or_time": 2
@@ -2613,37 +2613,37 @@
   "northcentralflaa.org": {
    "name": "NorthCentralFloridaIntergrp",
    "homepage": "https://aagainesville.org/",
-   "status": "fetched (162 KB)",
+   "status": "cached",
    "meetings": 181
   },
   "nosdco-aa.org": {
    "name": "No.SanDiegoCo.CentralOffice",
    "homepage": "https://ncsandiegoaa.org/",
-   "status": "fetched (1040 KB)",
+   "status": "cached",
    "meetings": 795
   },
   "nwpi.net": {
    "name": "Northwest Piedmont Intergroup (Winston-Salem)",
    "homepage": "https://nwpi.net",
-   "status": "fetched (156 KB)",
+   "status": "cached",
    "meetings": 156
   },
   "nyintergroup.org": {
    "name": "Inter-GroupAssociationofA.A.of NewYork,Inc.",
    "homepage": "https://www.nyintergroup.org/",
-   "status": "fetched (3761 KB)",
+   "status": "cached",
    "meetings": 2874
   },
   "oahucentraloffice.com": {
    "name": "OahuA.A.IntergroupOfHawaii",
    "homepage": "https://www.oahuaa.org/",
-   "status": "fetched (376 KB)",
+   "status": "cached",
    "meetings": 273
   },
   "oc-aa.org": {
    "name": "OrangeCountyCentralOffice",
    "homepage": "https://www.oc-aa.org",
-   "status": "fetched (2013 KB)",
+   "status": "cached",
    "meetings": 1920,
    "dropped": {
     "no_day_or_time": 1
@@ -2652,67 +2652,67 @@
   "ocaa.org": {
    "name": "OceanCityFellowshipIntergp",
    "homepage": "https://ocaa.org/",
-   "status": "fetched (25 KB)",
+   "status": "cached",
    "meetings": 31
   },
   "okcintergroup.org": {
    "name": "*IntergroupServiceOfficeInc.",
    "homepage": "https://okcintergroup.org/",
-   "status": "fetched (1090 KB)",
+   "status": "cached",
    "meetings": 998
   },
   "omahaaa.org": {
    "name": "OmahaCentralOffice",
    "homepage": "https://www.omahaaa.org",
-   "status": "fetched (649 KB)",
+   "status": "cached",
    "meetings": 651
   },
   "orangenyaa.org": {
    "name": "CentralServiceIntergroupOf OrangeCounty",
    "homepage": "https://orangenyaa.org/",
-   "status": "fetched (156 KB)",
+   "status": "cached",
    "meetings": 163
   },
   "ottawaaa.org": {
    "name": "OttawaAreaIntergroup",
    "homepage": "https://ottawaaa.org/",
-   "status": "fetched (546 KB)",
+   "status": "cached",
    "meetings": 384
   },
   "pdxaa.com": {
    "name": "PortlandAreaIntergroup",
    "homepage": "https://www.pdxaa.org/",
-   "status": "fetched (975 KB)",
+   "status": "cached",
    "meetings": 927
   },
   "pembrokeaa.org": {
    "name": "Pembroke&AreaDistrict74 AnsweringService",
    "homepage": "https://pembrokeaa.org/",
-   "status": "fetched (32 KB)",
+   "status": "cached",
    "meetings": 24
   },
   "peterboroughaa.org": {
    "name": "KawarthaDistrictIntergroup",
    "homepage": "https://peterboroughaa.org/",
-   "status": "fetched (45 KB)",
+   "status": "cached",
    "meetings": 47
   },
   "poconointergroupaa.org": {
    "name": "PoconoIntergroup(Answering Service)",
    "homepage": "https://poconointergroupaa.org/",
-   "status": "fetched (113 KB)",
+   "status": "cached",
    "meetings": 99
   },
   "prescottaa.org": {
    "name": "PrescottAreaIntergroup Association",
    "homepage": "https://prescottaa.org/",
-   "status": "fetched (150 KB)",
+   "status": "cached",
    "meetings": 154
   },
   "queensaa.org": {
    "name": "QueensIntergroupOfA.A.",
    "homepage": "https://queensaa.org/",
-   "status": "fetched (361 KB)",
+   "status": "cached",
    "meetings": 329,
    "dropped": {
     "no_day_or_time": 1
@@ -2721,25 +2721,25 @@
   "quintewestaa.org": {
    "name": "District30QuinteWest",
    "homepage": "https://quintewestaa.org/",
-   "status": "fetched (31 KB)",
+   "status": "cached",
    "meetings": 27
   },
   "raleighaa.com": {
    "name": "Tri-CountyIntergroup",
    "homepage": "https://raleighaa.com/",
-   "status": "fetched (434 KB)",
+   "status": "cached",
    "meetings": 385
   },
   "readingberksintergroup.org": {
    "name": "Reading-BerksIntergroup",
    "homepage": "https://readingberksintergroup.org",
-   "status": "fetched (168 KB)",
+   "status": "cached",
    "meetings": 138
   },
   "rhodeisland-aa.org": {
    "name": "R.I.CentralServiceOffice",
    "homepage": "https://rhodeisland-aa.org/",
-   "status": "fetched (715 KB)",
+   "status": "cached",
    "meetings": 721,
    "dropped": {
     "no_day_or_time": 1
@@ -2748,37 +2748,37 @@
   "rockfordaa.org": {
    "name": "RockfordAreaIntergroup",
    "homepage": "https://district70aa.org/",
-   "status": "fetched (234 KB)",
+   "status": "cached",
    "meetings": 206
   },
   "sacslaa.org": {
    "name": "Sacramento Area Intergroup",
    "homepage": "https://sacslaa.org",
-   "status": "fetched (11 KB)",
+   "status": "cached",
    "meetings": 9
   },
   "saginawaa.org": {
    "name": "SaginawValleyAnswering Service",
    "homepage": "http://www.saginawaa.org",
-   "status": "fetched (44 KB)",
+   "status": "cached",
    "meetings": 44
   },
   "santafeaa.org": {
    "name": "CentralOfficeofSantaFe Intergroup",
    "homepage": "https://santafeaa.org/",
-   "status": "fetched (172 KB)",
+   "status": "cached",
    "meetings": 111
   },
   "savannahaa.com": {
    "name": "SavannahIntergroupAssociation Inc.",
    "homepage": "https://savannahaa.com/",
-   "status": "fetched (158 KB)",
+   "status": "cached",
    "meetings": 165
   },
   "seattleaa.org": {
    "name": "GreaterSeattleIntergroup",
    "homepage": "https://www.seattleaa.org",
-   "status": "fetched (1989 KB)",
+   "status": "cached",
    "meetings": 1634,
    "dropped": {
     "no_day_or_time": 1
@@ -2787,19 +2787,19 @@
   "shoalsaa.org": {
    "name": "District01",
    "homepage": "https://www.shoalsaa.org",
-   "status": "fetched (118 KB)",
+   "status": "cached",
    "meetings": 113
   },
   "sloaa.org": {
    "name": "CentralCoastCentralOffice Intergroup",
    "homepage": "https://www.sloaa.org",
-   "status": "fetched (390 KB)",
+   "status": "cached",
    "meetings": 363
   },
   "southbayaa.org": {
    "name": "AllSouthBayCentralOffice",
    "homepage": "https://asbco.org/",
-   "status": "fetched (413 KB)",
+   "status": "cached",
    "meetings": 412,
    "dropped": {
     "no_day_or_time": 1
@@ -2808,97 +2808,97 @@
   "southernillinoisaa.org": {
    "name": "BlueIsland 60406 CarbondaleHelpline",
    "homepage": "https://southernillinoisaa.org/",
-   "status": "fetched (44 KB)",
+   "status": "cached",
    "meetings": 44
   },
   "southwesternindianaaa.org": {
    "name": "SouthwesternIndianaCentral",
    "homepage": "https://southwesternindianaaa.org/",
-   "status": "fetched (174 KB)",
+   "status": "cached",
    "meetings": 133
   },
   "suffolkny-aa.org": {
    "name": "SuffolkIntergroupAssociation",
    "homepage": "https://suffolkny-aa.org/",
-   "status": "fetched (918 KB)",
+   "status": "cached",
    "meetings": 891
   },
   "tcio.org": {
    "name": "Tri-CountyIntergroup",
    "homepage": "https://tcio.org",
-   "status": "fetched (324 KB)",
+   "status": "cached",
    "meetings": 285
   },
   "temeculacentraloffice.org": {
    "name": "SouthwesternRiversideCounty CentralServiceOfficeInc.",
    "homepage": "https://www.temeculacentraloffice.org",
-   "status": "fetched (274 KB)",
+   "status": "cached",
    "meetings": 236
   },
   "tidewaterintergroup.org": {
    "name": "TidewaterIntergroup",
    "homepage": "https://tidewaterintergroup.org",
-   "status": "fetched (472 KB)",
+   "status": "cached",
    "meetings": 357
   },
   "toledoaa.com": {
    "name": "*NWOhio&SEMichigan CentralOffice",
    "homepage": "https://toledoaa.com/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 500
   },
   "tricountyaa.org": {
    "name": "TriCountyIntergroup",
    "homepage": "https://tricountyaa.org",
-   "status": "fetched (134 KB)",
+   "status": "cached",
    "meetings": 134
   },
   "tyler-aa.org": {
    "name": "CentralServiceOffice",
    "homepage": "https://www.tyler-aa.org",
-   "status": "fetched (438 KB)",
+   "status": "cached",
    "meetings": 492
   },
   "upstateintergroup.org": {
    "name": "Upstate SC Intergroup",
    "homepage": "https://www.upstateintergroup.org/",
-   "status": "fetched (357 KB)",
+   "status": "cached",
    "meetings": 303
   },
   "valleyservicecenter.org": {
    "name": "ValleyServiceCenter",
    "homepage": "https://valleyservicecenteraa.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 168
   },
   "vancouveraa.ca": {
    "name": "GreaterVancouverIntergroup Society",
    "homepage": "https://vancouveraa.ca/",
-   "status": "fetched (733 KB)",
+   "status": "cached",
    "meetings": 574
   },
   "victorvalleyaa.org": {
    "name": "VictorValleyIntergroupCentral OfficeInc.",
    "homepage": "https://victorvalleyaa.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 166
   },
   "wamo-aa.org": {
    "name": "Western Missouri Area 39",
    "homepage": "https://wamo-aa.org",
-   "status": "fetched (1191 KB)",
+   "status": "cached",
    "meetings": 1068
   },
   "westcentralaa.org": {
    "name": "West/CentralIntergroupOf Maryland",
    "homepage": "https://westcentralaa.org/",
-   "status": "fetched (153 KB)",
+   "status": "cached",
    "meetings": 142
   },
   "westhawaiiaa.org": {
    "name": "WestHawaiiCentralOffice",
    "homepage": "https://westhawaiiaa.org/",
-   "status": "fetched (113 KB)",
+   "status": "cached",
    "meetings": 101,
    "dropped": {
     "no_day_or_time": 1
@@ -2907,7 +2907,7 @@
   "westsidecentraloffice.com": {
    "name": "WestsideCentralOffice",
    "homepage": "https://westsidecentraloffice.com/",
-   "status": "fetched (504 KB)",
+   "status": "cached",
    "meetings": 409,
    "dropped": {
     "no_day_or_time": 1
@@ -2916,19 +2916,19 @@
   "wpaarea60.org": {
    "name": "Western Pennsylvania Area 60",
    "homepage": "https://wpaarea60.org",
-   "status": "fetched (1109 KB)",
+   "status": "cached",
    "meetings": 948
   },
   "wyomingaa.org": {
    "name": "Wyoming Area 76",
    "homepage": "https://wyomingaa.org",
-   "status": "fetched (403 KB)",
+   "status": "cached",
    "meetings": 400
   },
   "york-pa-aa.org": {
    "name": "YorkAreaIntergroup",
    "homepage": "https://york-pa-aa.org/",
-   "status": "not modified",
+   "status": "cached",
    "meetings": 123
   },
   "3citiesaa.org": {
